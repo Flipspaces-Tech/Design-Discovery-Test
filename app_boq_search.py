@@ -10,8 +10,9 @@ import os
 import requests
 from io import BytesIO
 import re
-import html
+import html as html_lib
 import math
+import base64
 from collections import Counter
 
 # ============================================================
@@ -24,329 +25,175 @@ st.set_page_config(
 )
 
 # ============================================================
-# CUSTOM CSS — matches the "Design Discovery" screenshot UI
+# CSS
 # ============================================================
 st.markdown("""
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&display=swap');
 
-    *, *::before, *::after {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-    }
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-    html, body, [class*="css"] {
-        font-family: 'DM Sans', sans-serif;
-        background: #f8f7f5;
-        color: #1a1a1a;
-    }
+html, body, [class*="css"] {
+    font-family: 'DM Sans', sans-serif !important;
+    background: #f5f4f2 !important;
+    color: #1a1a1a;
+}
 
-    .main .block-container {
-        padding: 0 !important;
-        max-width: 100% !important;
-    }
+.main .block-container {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    max-width: 100% !important;
+}
 
-    /* ── TOP NAV ── */
-    .topbar {
-        display: flex;
-        align-items: center;
-        gap: 12px;
-        padding: 16px 32px;
-        background: #fff;
-        border-bottom: 1px solid #ebebeb;
-        position: sticky;
-        top: 0;
-        z-index: 100;
-    }
+section[data-testid="stSidebar"] { display: none !important; }
+#MainMenu, footer, header { visibility: hidden !important; }
+.stDeployButton { display: none !important; }
 
-    .logo-mark {
-        width: 34px;
-        height: 34px;
-        background: #111;
-        border-radius: 8px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
+/* TOPBAR */
+.dd-topbar {
+    display: flex; align-items: center; gap: 12px;
+    padding: 14px 56px;
+    background: #ffffff;
+    border-bottom: 1px solid #e8e8e8;
+}
+.dd-logo {
+    width: 32px; height: 32px; background: #111;
+    border-radius: 7px; display: flex; align-items: center;
+    justify-content: center; font-size: 15px; color: #fff; flex-shrink: 0;
+}
+.dd-brand { font-size: 1rem; font-weight: 700; color: #111; letter-spacing: -0.2px; }
 
-    .logo-mark svg {
-        width: 18px;
-        height: 18px;
-        fill: #fff;
-    }
+/* Streamlit input override */
+div[data-testid="stTextInput"] label { display: none !important; }
+div[data-testid="stTextInput"] > div > div > input {
+    border-radius: 50px !important;
+    border: 1px solid #e0e0e0 !important;
+    background: #ffffff !important;
+    padding: 9px 16px 9px 36px !important;
+    font-size: 0.875rem !important;
+    font-family: 'DM Sans', sans-serif !important;
+    color: #222 !important;
+    box-shadow: none !important;
+    caret-color: #222 !important;
+}
+div[data-testid="stTextInput"] > div > div > input:focus {
+    border-color: #bbb !important;
+    background: #fff !important;
+    box-shadow: 0 0 0 3px rgba(0,0,0,0.07) !important;
+}
+/* Remove dark container around input */
+div[data-testid="stTextInput"] > div {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
 
-    .brand-name {
-        font-size: 1.05rem;
-        font-weight: 700;
-        color: #111;
-        letter-spacing: -0.3px;
-    }
+/* selectbox override */
+div[data-testid="stSelectbox"] label { display: none !important; }
+div[data-testid="stSelectbox"] > div > div {
+    border-radius: 50px !important;
+    border: 1px solid #e0e0e0 !important;
+    background: #ffffff !important;
+    font-size: 0.82rem !important;
+    font-family: 'DM Sans', sans-serif !important;
+    min-height: 38px !important;
+    color: #333 !important;
+}
+div[data-testid="stSelectbox"] > div {
+    background: #ffffff !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+div[data-testid="stSelectbox"] {
+    background: #ffffff !important;
+}
+/* The actual visible select element */
+div[data-testid="stSelectbox"] > div > div > div {
+    background: #ffffff !important;
+    color: #333 !important;
+}
+/* Dropdown popup */
+div[data-testid="stSelectbox"] ul {
+    background: #fff !important;
+    border: 1px solid #e0e0e0 !important;
+    border-radius: 12px !important;
+}
+div[data-testid="stSelectbox"] li {
+    color: #333 !important;
+    font-family: 'DM Sans', sans-serif !important;
+}
 
-    /* ── SEARCH BAR ── */
-    .search-wrapper {
-        padding: 20px 32px 0 32px;
-        background: #fff;
-    }
+/* CONTENT */
+.dd-content { padding: 22px 56px 40px 56px; background: #f5f4f2; }
+.dd-result-count { font-size: 0.8rem; color: #999; margin-bottom: 18px; }
 
-    .search-inner {
-        position: relative;
-        max-width: 480px;
-    }
+/* CARDS — entirely self-contained HTML, no st.image() */
+.dd-card {
+    background: #fff; border-radius: 12px; overflow: hidden;
+    border: 1px solid #ebebeb; margin-bottom: 20px;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.dd-card:hover {
+    box-shadow: 0 8px 28px rgba(0,0,0,0.11);
+    transform: translateY(-3px);
+}
+.dd-card-img {
+    width: 100%; height: 180px; position: relative;
+    overflow: hidden; background: #e8e8e8;
+}
+.dd-card-img img {
+    width: 100%; height: 100%; object-fit: cover; display: block;
+    transition: transform 0.35s ease;
+}
+.dd-card:hover .dd-card-img img { transform: scale(1.05); }
+.dd-no-img {
+    width: 100%; height: 180px; background: #efefef;
+    display: flex; align-items: center; justify-content: center;
+    color: #bbb; font-size: 0.78rem;
+}
+.badge-approved {
+    position: absolute; top: 9px; left: 9px;
+    background: #fff; color: #18a060; border: 1px solid #b8edcd;
+    border-radius: 50px; padding: 3px 8px;
+    font-size: 0.68rem; font-weight: 600;
+}
+.badge-style {
+    position: absolute; top: 9px; right: 9px;
+    background: rgba(255,255,255,0.88); color: #444;
+    border-radius: 50px; padding: 3px 8px; font-size: 0.68rem; font-weight: 500;
+}
+.dd-card-body { padding: 11px 13px 13px; }
+.dd-space {
+    font-size: 0.9rem; font-weight: 600; color: #111; margin-bottom: 3px;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.dd-meta {
+    font-size: 0.76rem; color: #999; margin-bottom: 2px;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.dd-meta b { color: #666; font-weight: 500; }
+.dd-footer { display: flex; align-items: center; justify-content: space-between; margin-top: 7px; }
+.dd-score {
+    font-size: 0.72rem; font-weight: 600; color: #6c5ce7;
+    background: #f0eeff; border-radius: 50px; padding: 2px 8px;
+}
+.dd-open { font-size: 0.72rem; color: #aaa; text-decoration: none; }
+.dd-open:hover { color: #555; text-decoration: underline; }
 
-    .search-icon {
-        position: absolute;
-        left: 14px;
-        top: 50%;
-        transform: translateY(-50%);
-        color: #999;
-        font-size: 14px;
-        pointer-events: none;
-    }
+/* EMPTY */
+.dd-empty { text-align: center; padding: 80px 20px; }
+.dd-empty-icon { font-size: 48px; margin-bottom: 14px; opacity: 0.35; }
+.dd-empty-title { font-size: 1.25rem; font-weight: 700; color: #222; margin-bottom: 6px; }
+.dd-empty-text { font-size: 0.9rem; color: #aaa; line-height: 1.6; }
 
-    /* Override Streamlit input */
-    .search-wrapper .stTextInput > div > div > input {
-        background: #f5f5f5 !important;
-        border: 1px solid #e8e8e8 !important;
-        border-radius: 50px !important;
-        padding: 10px 16px 10px 40px !important;
-        font-size: 0.9rem !important;
-        color: #333 !important;
-        box-shadow: none !important;
-        font-family: 'DM Sans', sans-serif !important;
-    }
-
-    .search-wrapper .stTextInput > div > div > input:focus {
-        border-color: #c5c5c5 !important;
-        background: #fff !important;
-        box-shadow: 0 0 0 3px rgba(0,0,0,0.06) !important;
-    }
-
-    .search-wrapper .stTextInput label { display: none !important; }
-
-    /* ── FILTER BAR ── */
-    .filter-bar {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        padding: 14px 32px 16px 32px;
-        background: #fff;
-        border-bottom: 1px solid #ebebeb;
-        flex-wrap: wrap;
-    }
-
-    .filter-chip {
-        display: inline-flex;
-        align-items: center;
-        gap: 5px;
-        padding: 6px 14px;
-        border: 1px solid #ddd;
-        border-radius: 50px;
-        font-size: 0.82rem;
-        font-weight: 500;
-        color: #333;
-        background: #fff;
-        cursor: pointer;
-        transition: all 0.15s ease;
-        white-space: nowrap;
-    }
-
-    .filter-chip:hover {
-        border-color: #aaa;
-        background: #f9f9f9;
-    }
-
-    .filter-chip .chevron {
-        font-size: 0.65rem;
-        color: #888;
-        margin-left: 2px;
-    }
-
-    .filter-chip-more {
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        padding: 6px 14px;
-        border: 1px solid #ddd;
-        border-radius: 50px;
-        font-size: 0.82rem;
-        font-weight: 500;
-        color: #555;
-        background: #fff;
-        cursor: pointer;
-        margin-left: auto;
-    }
-
-    /* ── MAIN CONTENT AREA ── */
-    .content-area {
-        padding: 28px 32px;
-        background: #f8f7f5;
-    }
-
-    /* ── RESULT COUNT ── */
-    .result-count {
-        font-size: 0.82rem;
-        color: #888;
-        margin-bottom: 20px;
-        font-weight: 400;
-    }
-
-    /* ── PRODUCT GRID ── */
-    /* Using Streamlit columns — we just style the cards */
-
-    .dd-card {
-        background: #fff;
-        border-radius: 12px;
-        overflow: hidden;
-        border: 1px solid #ebebeb;
-        transition: box-shadow 0.2s ease, transform 0.2s ease;
-        margin-bottom: 20px;
-        cursor: pointer;
-    }
-
-    .dd-card:hover {
-        box-shadow: 0 8px 30px rgba(0,0,0,0.10);
-        transform: translateY(-3px);
-    }
-
-    .dd-img-wrapper {
-        width: 100%;
-        height: 185px;
-        overflow: hidden;
-        background: #f0f0f0;
-        position: relative;
-    }
-
-    .dd-img-wrapper img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: transform 0.35s ease;
-    }
-
-    .dd-card:hover .dd-img-wrapper img {
-        transform: scale(1.04);
-    }
-
-    /* Status badge */
-    .badge-approved {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        background: #fff;
-        color: #1a9e5a;
-        border: 1px solid #c3eed8;
-        border-radius: 50px;
-        padding: 3px 9px;
-        font-size: 0.7rem;
-        font-weight: 600;
-        display: flex;
-        align-items: center;
-        gap: 4px;
-        backdrop-filter: blur(4px);
-    }
-
-    .badge-approved::before {
-        content: '✓';
-        font-size: 0.65rem;
-    }
-
-    /* Style tag */
-    .badge-style {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        background: rgba(255,255,255,0.92);
-        color: #444;
-        border-radius: 50px;
-        padding: 3px 9px;
-        font-size: 0.7rem;
-        font-weight: 500;
-        backdrop-filter: blur(4px);
-    }
-
-    /* Card body */
-    .dd-card-body {
-        padding: 12px 14px 14px;
-    }
-
-    .dd-space-name {
-        font-size: 0.92rem;
-        font-weight: 600;
-        color: #111;
-        margin-bottom: 2px;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-    .dd-meta-row {
-        font-size: 0.78rem;
-        color: #888;
-        display: flex;
-        align-items: center;
-        gap: 4px;
-        margin-bottom: 1px;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-    .dd-meta-row .dot {
-        width: 3px;
-        height: 3px;
-        border-radius: 50%;
-        background: #ccc;
-        flex-shrink: 0;
-    }
-
-    .dd-meta-row a {
-        color: #888;
-        text-decoration: none;
-    }
-
-    .dd-meta-row a:hover {
-        color: #333;
-        text-decoration: underline;
-    }
-
-    /* ── EMPTY / NO RESULTS ── */
-    .empty-state {
-        text-align: center;
-        padding: 100px 40px;
-    }
-
-    .empty-icon {
-        font-size: 56px;
-        margin-bottom: 16px;
-        opacity: 0.4;
-    }
-
-    .empty-title {
-        font-size: 1.4rem;
-        font-weight: 700;
-        color: #222;
-        margin-bottom: 6px;
-    }
-
-    .empty-text {
-        font-size: 0.95rem;
-        color: #999;
-    }
-
-    /* ── HIDE STREAMLIT CHROME ── */
-    #MainMenu, footer, header, .stDeployButton { visibility: hidden !important; }
-    .stSelectbox label { display: none !important; }
-
-    /* selectbox styling */
-    .stSelectbox > div > div {
-        border-radius: 50px !important;
-        border-color: #ddd !important;
-        background: #fff !important;
-        font-size: 0.82rem !important;
-        min-height: 36px !important;
-        font-family: 'DM Sans', sans-serif !important;
-    }
+/* Search wrapper */
+.dd-search-wrap {
+    background: #fff;
+    padding: 16px 56px 16px 56px;
+    border-bottom: 1px solid #e8e8e8;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -368,324 +215,216 @@ def load_metadata():
         return json.load(f)
 
 @st.cache_resource
-def load_clip():
+def load_clip_model():
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    model, preprocess = clip.load("ViT-B/32", device=device)
-    return model, preprocess, device
-
-@st.cache_resource
-def build_metadata_index(metadata_dict):
-    row_search_text = {}
-    token_doc_freq = Counter()
-    total_docs = 0
-    for key, meta in metadata_dict.items():
-        text = build_searchable_text(meta)
-        row_search_text[key] = text
-        tokens = set(tokenize_query(text))
-        for token in tokens:
-            token_doc_freq[token] += 1
-        total_docs += 1
-    return row_search_text, token_doc_freq, total_docs
+    mdl, preprocess = clip.load("ViT-B/32", device=device)
+    return mdl, preprocess, device
 
 embeddings_data = load_embeddings()
 metadata = load_metadata()
-model, preprocess, device = load_clip()
+model, preprocess, device = load_clip_model()
 
 # ============================================================
 # HELPERS
 # ============================================================
 def cosine_similarity(a, b):
-    a = np.array(a, dtype=np.float32)
-    b = np.array(b, dtype=np.float32)
-    if norm(a) == 0 or norm(b) == 0:
-        return 0.0
-    return float(dot(a, b) / (norm(a) * norm(b)))
+    a = np.array(a, dtype=np.float32); b = np.array(b, dtype=np.float32)
+    na, nb = norm(a), norm(b)
+    return float(dot(a, b) / (na * nb)) if na and nb else 0.0
 
 def safe_meta(meta, key, default=""):
-    value = meta.get(key, default)
-    if value is None:
-        return default
-    value = str(value).strip()
-    return value if value else default
+    v = meta.get(key, default)
+    if v is None: return default
+    v = str(v).strip(); return v if v else default
 
 def normalize_text(text):
     text = str(text).lower().strip()
     text = re.sub(r"[^a-z0-9\s]+", " ", text)
-    text = re.sub(r"\s+", " ", text)
-    return text
+    return re.sub(r"\s+", " ", text)
 
 def tokenize_query(query):
-    query = normalize_text(query)
-    return [t for t in query.split() if len(t) > 1]
+    return [t for t in normalize_text(query).split() if len(t) > 1]
 
 def build_searchable_text(meta):
-    fields = [
-        safe_meta(meta, "project_name"),
-        safe_meta(meta, "product_name"),
-        safe_meta(meta, "project_id"),
-        safe_meta(meta, "sku"),
-        safe_meta(meta, "space_name"),
-        safe_meta(meta, "category"),
-        safe_meta(meta, "city"),
-        safe_meta(meta, "country"),
-        safe_meta(meta, "construction_type_text"),
-        safe_meta(meta, "style"),
-        safe_meta(meta, "designers"),
-        safe_meta(meta, "render_created_by"),
-        safe_meta(meta, "brand"),
-        safe_meta(meta, "layout_id"),
-    ]
-    return normalize_text(" ".join([f for f in fields if f]))
+    keys = ["project_name","product_name","project_id","sku","space_name",
+            "category","city","country","construction_type_text","style",
+            "designers","render_created_by","brand","layout_id"]
+    return normalize_text(" ".join(safe_meta(meta, k) for k in keys))
+
+@st.cache_resource
+def build_metadata_index(_meta):
+    rst, tdf, td = {}, Counter(), 0
+    for key, meta in _meta.items():
+        text = build_searchable_text(meta)
+        rst[key] = text
+        for t in set(tokenize_query(text)): tdf[t] += 1
+        td += 1
+    return rst, tdf, td
 
 row_search_text, token_doc_freq, total_docs = build_metadata_index(metadata)
 
-def split_query_by_corpus(query, token_doc_freq):
+def metadata_score(query, stext):
     tokens = tokenize_query(query)
-    metadata_terms, non_metadata_terms = [], []
-    for token in tokens:
-        if token_doc_freq.get(token, 0) > 0:
-            metadata_terms.append(token)
-        else:
-            non_metadata_terms.append(token)
-    return metadata_terms, non_metadata_terms
-
-def compute_dynamic_metadata_score(query, searchable_text, token_doc_freq, total_docs):
-    query_tokens = tokenize_query(query)
-    if not query_tokens:
-        return 0.0, [], []
-    matched, missing = [], []
-    score = max_score = 0.0
-    for token in query_tokens:
-        df = token_doc_freq.get(token, 0)
-        weight = math.log((total_docs + 1) / (df + 1)) + 1.0
+    if not tokens: return 0.0, [], []
+    matched, missing, score, max_score = [], [], 0.0, 0.0
+    for t in tokens:
+        df = token_doc_freq.get(t, 0)
+        w = math.log((total_docs + 1) / (df + 1)) + 1.0
         if df > 0:
-            max_score += weight
-            if token in searchable_text:
-                score += weight
-                matched.append(token)
-            else:
-                missing.append(token)
-    if max_score == 0:
-        return 0.0, matched, missing
-    return score / max_score, matched, missing
+            max_score += w
+            if t in stext: score += w; matched.append(t)
+            else: missing.append(t)
+    return (score / max_score if max_score else 0.0), matched, missing
 
-def search_products_hybrid(query, top_k=20, clip_weight=0.75, metadata_weight=0.25,
-                            min_clip_score=0.20, min_final_score=0.20, metadata_match_ratio=0.6):
-    if not embeddings_data:
-        return []
-    text_input = clip.tokenize([query]).to(device)
+def search_products_hybrid(query, top_k=20, cw=0.75, mw=0.25,
+                            min_clip=0.20, min_final=0.20, mratio=0.6):
+    if not embeddings_data: return []
+    ti = clip.tokenize([query]).to(device)
     with torch.no_grad():
-        text_features = model.encode_text(text_input)
-    query_emb = text_features.cpu().numpy().flatten().tolist()
-    metadata_terms, non_metadata_terms = split_query_by_corpus(query, token_doc_freq)
+        tf = model.encode_text(ti)
+    qemb = tf.cpu().numpy().flatten().tolist()
+    meta_terms = [t for t in tokenize_query(query) if token_doc_freq.get(t, 0) > 0]
+    clip_terms = [t for t in tokenize_query(query) if token_doc_freq.get(t, 0) == 0]
     results = []
-    for product_key, data in embeddings_data.items():
+    for pk, data in embeddings_data.items():
         emb = data.get("embedding")
-        if not emb:
-            continue
-        meta = metadata.get(product_key, {})
-        searchable_text = row_search_text.get(product_key, "")
-        clip_score = cosine_similarity(query_emb, emb)
-        metadata_score, matched_terms, missing_terms = compute_dynamic_metadata_score(
-            query, searchable_text, token_doc_freq, total_docs)
-        if metadata_terms:
-            matched_metadata_terms = [t for t in metadata_terms if t in searchable_text]
-            ratio = len(matched_metadata_terms) / len(metadata_terms)
-            if ratio < metadata_match_ratio:
-                continue
-        if non_metadata_terms and clip_score < min_clip_score:
-            continue
-        final_score = (clip_weight * clip_score) + (metadata_weight * metadata_score)
-        if final_score < min_final_score:
-            continue
-        results.append((product_key, final_score, clip_score, metadata_score, matched_terms, missing_terms))
+        if not emb: continue
+        st_text = row_search_text.get(pk, "")
+        cs = cosine_similarity(qemb, emb)
+        ms, matched, missing = metadata_score(query, st_text)
+        if meta_terms:
+            r = sum(1 for t in meta_terms if t in st_text) / len(meta_terms)
+            if r < mratio: continue
+        if clip_terms and cs < min_clip: continue
+        final = cw * cs + mw * ms
+        if final < min_final: continue
+        results.append((pk, final, cs, ms, matched, missing))
     results.sort(key=lambda x: x[1], reverse=True)
     return results[:top_k]
 
-def download_image_from_url(image_url):
+def fetch_b64(image_url):
     try:
-        if not image_url or not isinstance(image_url, str):
-            return None
-        image_url = image_url.strip()
-        if not image_url.startswith("http"):
-            return None
-        if "drive.google.com" in image_url:
-            if "/d/" in image_url:
-                file_id = image_url.split("/d/")[1].split("/")[0]
-            elif "id=" in image_url:
-                file_id = image_url.split("id=")[1].split("&")[0]
-            else:
-                return None
-            image_url = f"https://drive.google.com/uc?id={file_id}&export=download"
-        response = requests.get(image_url, timeout=15, allow_redirects=True)
-        if response.status_code == 200:
-            return Image.open(BytesIO(response.content)).convert("RGB")
-    except:
-        pass
+        if not image_url or not str(image_url).startswith("http"): return None
+        url = image_url.strip()
+        if "drive.google.com" in url:
+            if "/d/" in url: fid = url.split("/d/")[1].split("/")[0]
+            elif "id=" in url: fid = url.split("id=")[1].split("&")[0]
+            else: return None
+            url = f"https://drive.google.com/uc?id={fid}&export=download"
+        r = requests.get(url, timeout=15, allow_redirects=True)
+        if r.status_code == 200:
+            img = Image.open(BytesIO(r.content)).convert("RGB")
+            img.thumbnail((600, 400), Image.LANCZOS)
+            buf = BytesIO(); img.save(buf, format="JPEG", quality=82)
+            return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
+    except: pass
     return None
 
-def esc(value):
-    return html.escape(str(value), quote=True)
-
-def truncate(text, max_len=22):
-    return text if len(text) <= max_len else text[:max_len] + "…"
+def esc(v): return html_lib.escape(str(v), quote=True)
+def trunc(s, n=24): return s if len(s) <= n else s[:n] + "…"
 
 # ============================================================
-# TOP NAV
+# TOPBAR
 # ============================================================
 st.markdown("""
-<div class="topbar">
-    <div class="logo-mark">
-        <svg viewBox="0 0 24 24"><path d="M3 3h8v8H3zm10 0h8v8h-8zM3 13h8v8H3zm10 4h2v-2h2v2h2v2h-2v2h-2v-2h-2z"/></svg>
-    </div>
-    <span class="brand-name">Design Discovery</span>
+<div class="dd-topbar">
+  <div class="dd-logo">⊞</div>
+  <span class="dd-brand">Design Discovery</span>
 </div>
 """, unsafe_allow_html=True)
 
-# ============================================================
-# SEARCH + FILTER BAR
-# ============================================================
 if not embeddings_data:
-    st.markdown("""
-    <div class="empty-state">
-        <div class="empty-icon">⚠️</div>
-        <div class="empty-title">No Embeddings Found</div>
-        <div class="empty-text">Please run the processing script first.</div>
-    </div>""", unsafe_allow_html=True)
+    st.markdown("""<div class="dd-content"><div class="dd-empty">
+      <div class="dd-empty-icon">⚠️</div>
+      <div class="dd-empty-title">No Embeddings Found</div>
+      <div class="dd-empty-text">Please run the processing script first.</div>
+    </div></div>""", unsafe_allow_html=True)
     st.stop()
 
-st.markdown('<div class="search-wrapper">', unsafe_allow_html=True)
-col_s, col_r = st.columns([4, 1])
-with col_s:
-    # Inject search icon overlay via markdown
-    st.markdown('<span class="search-icon">🔍</span>', unsafe_allow_html=True)
-    search_query = st.text_input(
-        "search",
-        placeholder="Search By Space",
-        label_visibility="collapsed"
-    )
-with col_r:
-    num_results = st.selectbox(
-        "results",
-        [5, 10, 15, 20, 30, 50],
-        index=1,
-        label_visibility="collapsed"
-    )
+# ============================================================
+# SEARCH BAR (white background block)
+# ============================================================
+st.markdown('<div class="dd-search-wrap">', unsafe_allow_html=True)
+c1, c2 = st.columns([5, 1])
+with c1:
+    search_query = st.text_input("search", placeholder="🔍  Search By Space", label_visibility="collapsed")
+with c2:
+    num_results = st.selectbox("n", [5, 10, 15, 20, 30, 50], index=1, label_visibility="collapsed")
 st.markdown('</div>', unsafe_allow_html=True)
-
-# Filter chips (decorative — wired to search logic via query)
-st.markdown("""
-<div class="filter-bar">
-    <div class="filter-chip">Construction Type <span class="chevron">▾</span></div>
-    <div class="filter-chip">Project Type <span class="chevron">▾</span></div>
-    <div class="filter-chip">Project Name <span class="chevron">▾</span></div>
-    <div class="filter-chip">Space Name <span class="chevron">▾</span></div>
-    <div class="filter-chip">Designer <span class="chevron">▾</span></div>
-    <div class="filter-chip">Country <span class="chevron">▾</span></div>
-    <div class="filter-chip-more">⚙ More</div>
-</div>
-""", unsafe_allow_html=True)
 
 # ============================================================
 # RESULTS
 # ============================================================
-st.markdown('<div class="content-area">', unsafe_allow_html=True)
+st.markdown('<div class="dd-content">', unsafe_allow_html=True)
 
 if search_query:
     try:
-        all_results = search_products_hybrid(
-            search_query,
-            top_k=num_results,
-            clip_weight=0.75,
-            metadata_weight=0.25,
-            min_clip_score=0.20,
-            min_final_score=0.20,
-            metadata_match_ratio=0.6
+        results = search_products_hybrid(
+            search_query, top_k=num_results,
+            cw=0.75, mw=0.25, min_clip=0.20, min_final=0.20, mratio=0.6
         )
-
-        if not all_results:
-            st.markdown("""
-            <div class="empty-state">
-                <div class="empty-icon">🔍</div>
-                <div class="empty-title">No results found</div>
-                <div class="empty-text">Try a different combination of space type, designer, city, or style.</div>
+        if not results:
+            st.markdown("""<div class="dd-empty">
+              <div class="dd-empty-icon">🔍</div>
+              <div class="dd-empty-title">No results found</div>
+              <div class="dd-empty-text">Try: conference room Hyderabad &nbsp;·&nbsp; warm modern lounge</div>
             </div>""", unsafe_allow_html=True)
         else:
-            st.markdown(f'<div class="result-count">{len(all_results)} results</div>', unsafe_allow_html=True)
-
+            st.markdown(f'<div class="dd-result-count">{len(results)} results</div>', unsafe_allow_html=True)
             cols = st.columns(5)
-            for idx, (product_key, final_score, clip_score, metadata_score, matched_terms, missing_terms) in enumerate(all_results):
+            for idx, (pk, final, cs, ms, matched, missing) in enumerate(results):
                 with cols[idx % 5]:
-                    prod_meta = metadata.get(product_key, {})
+                    m = metadata.get(pk, {})
+                    image_url  = safe_meta(m, "image_url")
+                    space      = safe_meta(m, "space_name",   safe_meta(m, "category", "—"))
+                    proj       = safe_meta(m, "project_name", safe_meta(m, "product_name", ""))
+                    floor      = safe_meta(m, "floor",        safe_meta(m, "layout_id", ""))
+                    designer   = safe_meta(m, "designers",    safe_meta(m, "render_created_by", ""))
+                    style      = safe_meta(m, "construction_type_text", safe_meta(m, "style", "Modern"))
+                    render_url = safe_meta(m, "render_url")
+                    approved   = safe_meta(m, "approved", "").lower() in ("true","1","yes","approved")
 
-                    image_url         = safe_meta(prod_meta, "image_url", "")
-                    space_name        = safe_meta(prod_meta, "space_name",   safe_meta(prod_meta, "category", "Unknown"))
-                    project_name      = safe_meta(prod_meta, "project_name", safe_meta(prod_meta, "product_name", ""))
-                    floor_level       = safe_meta(prod_meta, "floor", safe_meta(prod_meta, "layout_id", ""))
-                    designer          = safe_meta(prod_meta, "designers",    safe_meta(prod_meta, "render_created_by", ""))
-                    construction_type = safe_meta(prod_meta, "construction_type_text", safe_meta(prod_meta, "style", "Modern"))
-                    render_url        = safe_meta(prod_meta, "render_url", "")
-                    is_approved       = safe_meta(prod_meta, "approved", "").lower() in ("true", "1", "yes", "approved")
+                    b64 = fetch_b64(image_url)
+                    img_html = f'<img src="{b64}" alt="{esc(space)}" />' if b64 else \
+                               f'<div class="dd-no-img">No preview</div>'
 
-                    # Card open tag
-                    st.markdown('<div class="dd-card">', unsafe_allow_html=True)
+                    appr_html  = '<div class="badge-approved">✓ Approved</div>' if approved else ''
+                    style_html = f'<div class="badge-style">{esc(trunc(style, 12))}</div>'
 
-                    # Image area
-                    st.markdown('<div class="dd-img-wrapper">', unsafe_allow_html=True)
-                    if image_url:
-                        image = download_image_from_url(image_url)
-                        if image:
-                            st.image(image, use_column_width=True)
-                        else:
-                            st.markdown("<div style='height:185px;display:flex;align-items:center;justify-content:center;color:#bbb;font-size:0.8rem;'>No preview</div>", unsafe_allow_html=True)
-                    else:
-                        st.markdown("<div style='height:185px;display:flex;align-items:center;justify-content:center;color:#bbb;font-size:0.8rem;'>No preview</div>", unsafe_allow_html=True)
+                    meta1 = esc(trunc(proj, 22)) + (f" · {esc(floor)}" if floor and floor.lower() not in ("unknown","") else "")
+                    meta2 = f'By <b>{esc(trunc(designer, 20))}</b>' if designer else ""
 
-                    # Overlay badges
-                    approved_badge = '<div class="badge-approved">Approved</div>' if is_approved else ''
-                    st.markdown(f"""
-                        {approved_badge}
-                        <div class="badge-style">{esc(construction_type)}</div>
-                    """, unsafe_allow_html=True)
-                    st.markdown('</div>', unsafe_allow_html=True)  # /dd-img-wrapper
-
-                    # Card body
-                    floor_str = f" • {esc(floor_level)}" if floor_level and floor_level.lower() not in ("unknown", "") else ""
-                    proj_str = truncate(project_name, 20) if project_name else ""
-                    by_str = truncate(designer, 18) if designer else ""
-
-                    open_html = ""
+                    open_btn = ""
                     if render_url and render_url.startswith("http"):
-                        open_html = f'<a class="dd-meta-row" href="{esc(render_url)}" target="_blank" style="color:#666;text-decoration:underline;font-size:0.75rem;">Open ↗</a>'
+                        open_btn = f'<a class="dd-open" href="{esc(render_url)}" target="_blank">Open ↗</a>'
 
                     st.markdown(f"""
-                    <div class="dd-card-body">
-                        <div class="dd-space-name">{esc(space_name)}</div>
-                        <div class="dd-meta-row">
-                            <span>{esc(proj_str)}</span>
-                            {f'<span class="dot"></span><span>{floor_str.lstrip(" • ")}</span>' if floor_str else ''}
-                        </div>
-                        <div class="dd-meta-row">
-                            {f'<span>By {esc(by_str)}</span>' if by_str else ''}
-                            <span class="dot"></span>
-                            <span style="background:linear-gradient(90deg,#6c5ce7,#a29bfe);-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-weight:600;">{final_score:.0%}</span>
-                        </div>
-                        {open_html}
-                    </div>
-                    """, unsafe_allow_html=True)
-
-                    st.markdown('</div>', unsafe_allow_html=True)  # /dd-card
+<div class="dd-card">
+  <div class="dd-card-img">
+    {img_html}
+    {appr_html}
+    {style_html}
+  </div>
+  <div class="dd-card-body">
+    <div class="dd-space">{esc(space)}</div>
+    <div class="dd-meta">{meta1}</div>
+    <div class="dd-meta">{meta2}</div>
+    <div class="dd-footer">
+      <span class="dd-score">{final:.0%} match</span>
+      {open_btn}
+    </div>
+  </div>
+</div>""", unsafe_allow_html=True)
 
     except Exception as e:
         st.error(f"Search error: {str(e)}")
-
 else:
-    # Show placeholder grid with empty cards to mimic the browse state
-    st.markdown("""
-    <div class="empty-state">
-        <div class="empty-icon">✦</div>
-        <div class="empty-title">Search to discover renders</div>
-        <div class="empty-text">Try: conference room Hyderabad &nbsp;·&nbsp; warm modern lounge &nbsp;·&nbsp; reception ground floor</div>
+    st.markdown("""<div class="dd-empty">
+      <div class="dd-empty-icon">✦</div>
+      <div class="dd-empty-title">Search to discover renders</div>
+      <div class="dd-empty-text">
+        Try: conference room Hyderabad &nbsp;·&nbsp; warm modern lounge &nbsp;·&nbsp; reception ground floor
+      </div>
     </div>""", unsafe_allow_html=True)
 
-st.markdown('</div>', unsafe_allow_html=True)  # /content-area
+st.markdown('</div>', unsafe_allow_html=True)
