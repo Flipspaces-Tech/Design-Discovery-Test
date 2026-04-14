@@ -1,0 +1,13594 @@
+boq_name,brand,catalogue_code_dynamic,category,config,countries,default_image,dimensions,height,hsn_code,id,is_preferred,item_class,item_name,item_type,length1,lwhd_metric,model_3d,panel_color_dynamic,sku_id,sku_name,specifications,status,sub_category,t_metric,template_id,template_name,unit,width,images,thickness,type,td_document,item_style,diameter,space_tag,us_dimensions,Selling Price,us_specifications
+GRID CEILING 200X200,Sonidoa,PLUSNESS,ACOUSTIC,Grid,IN,https://s3-dms-prod.flipspaces.app/3e32f104-86e9-4d31-b6ef-8c7955c2c9a2,1200mm (L) x 1200mm (W) x 150mm (H),150,39259090,6489e4bb-b81a-4848-8bd8-eec0ed8b6de0,TRUE,P1,GRID,product,1200,mm,1c118acf-d45a-4faa-90e6-7ee13585aca7,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-591869,ACOUSTIC CEILING GRID Grid Sonidoa GRID CEILING 200X200 PLUSNESS 1200mm (L) x 1200mm (W) x 150mm (H),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Plusness Ceiling Lattice
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,1200,,,,,,,,,640,
+GRID CEILING 200X200,Sonidoa,LIBRA EDGE,ACOUSTIC,Grid,IN,https://s3-dms-prod.flipspaces.app/502ab293-71a9-4c61-8ad4-67eb6e2c7170,1200mm (L) x 1200mm (W) x 150mm (H),150,39259090,bde351b5-4696-4606-9835-2bd839e3530b,TRUE,P1,GRID,product,1200,mm,99513d60-4546-45d3-ab99-047dfb968d5d,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-824979,ACOUSTIC CEILING GRID Grid Sonidoa GRID CEILING 200X200 LIBRA EDGE 1200mm (L) x 1200mm (W) x 150mm (H),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Libra Edge Ceiling Lattice
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,1200,,,,,,,,,640,
+LEAF ACOUSTIC SHEET,Sonidoa,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/cff40183-c45f-43cc-a9b1-8981b09564ea,1060mm (L) x 560mm (W) x 9mm (T),,39259090,955fdd00-4615-4f8b-a87c-13fe18e3ad30,TRUE,P1,BLOC,product,1060,mm,e1a81e0b-f55c-4c55-8d14-5a2add48545a,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-374798,ACOUSTIC CEILING BLOC LEAF ACOUSTIC SHEET Bloc Sonidoa LEAF ACOUSTIC SHEET 1060mm (L) x 560mm (W) x 9mm (T),"Supply of Sonidoa Acoustic Leaf made of 9mm PET Acoustic Sheets
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM, ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,560,,9,LEAF ACOUSTIC SHEET,,,,,,4930,
+CEILING LATTICE,Sonidoa,ARENA,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/0cbd7426-618c-43be-986e-91842eef1062,584mm (L) x 110mm (W) x 9mm (T),,39259090,b3ec4a22-c262-43bf-ad59-d922e4f2a78e,TRUE,P1,BAFFLE,product,584,mm,e131b220-9e00-458f-889e-376bb1da7526,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-756955,ACOUSTIC CEILING BAFFLE Baffle Sonidoa CEILING LATTICE ARENA 584mm (L) x 110mm (W) x 9mm (T),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Arena Ceiling Lattice 
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,110,,9,,,,,,,840,
+CEILING LATTICE,Sonidoa,PATH WAVES,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/70ec4ab2-de35-46be-8742-c2b9086a7ccc,584mm (L) x 110mm (W) x 9mm (T),,39259090,67b12e0d-2954-4bc1-bee9-2f6fe9cdfe97,TRUE,P1,BAFFLE,product,584,mm,d48f0a8c-77a0-43ad-8c5c-ffaf365c039c,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-363758,ACOUSTIC CEILING BAFFLE Baffle Sonidoa CEILING LATTICE PATH WAVES 584mm (L) x 110mm (W) x 9mm (T),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Path Waves Ceiling Lattice
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,110,,9,,,,,,,840,
+LINEAR BAFFLE,Sonidoa,RAFFLE,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/299cf20c-d426-42e5-897d-5c5bc910b458,2400mm (L) x 150mm (W) x 9mm (T),,39259090,5b006b59-8acd-42c5-84a3-325f9b8e11d7,TRUE,P1,BAFFLE,product,2400,mm,5bc2c9f0-4583-490f-a42d-73cce45f0f95,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-424360,ACOUSTIC CEILING BAFFLE Baffle Sonidoa LINEAR BAFFLE RAFFLE 2400mm (L) x 150mm (W) x 9mm (T),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Raffle Ceiling Lattice
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,150,,9,,,,,,,640,
+LINEAR BAFFLE,Sonidoa,FLUTED,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/af4da1ff-a993-4a4b-bb6f-7b5dd123650b,1200mm (L) x 250mm (W) x 9mm (T),,39259090,243bc28c-1d17-4ea2-8a9b-c9b059a2f2c2,TRUE,P1,BAFFLE,product,1200,mm,45c6dc45-ba48-452f-a1e9-256c4e04b7cb,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-224732,ACOUSTIC CEILING BAFFLE Baffle Sonidoa LINEAR BAFFLE FLUTED 1200mm (L) x 250mm (W) x 9mm (T),"Supply and Installation of SonidoaBaffles Made of 9mm PET Acoustic Panel Fluted Ceiling Baffles
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,250,,9,,,,,,,640,
+LINEAR BAFFLE,Sonidoa,GEOSTRIPE,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/e3fe1b72-12db-4448-bbcc-2aa4e41edcca,600mm (L) x 600mm (W) x 150mm (T),,39259090,198dea34-38de-4ab8-9234-5dc5bd42a71b,TRUE,P1,BAFFLE,product,600,mm,27c25cbc-98c1-48b9-917d-68b585891859,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-536515,ACOUSTIC CEILING BAFFLE Baffle Sonidoa LINEAR BAFFLE GEOSTRIPE 600mm (L) x 600mm (W) x 150mm (T),"Supply and Installation of Sonidoa Baffles Made of 9mm PET Acoustic Panel Geostripe Ceiling Baffles dual shade
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ Density: 1750 GSM
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ Qualified for Green Building certification.
+ 
+ 1 set has 6 baffles (each baffle size- 600 x 150 x 27 mm)",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,600,,150,,,,,,,6500,
+WAVE BAFFLE,Sonidoa,GLOBUE,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/31064e8d-cb8b-4f50-87fc-a7458c07af85,2400mm (L) x 275mm (W) x 9mm (T),,39259090,b11ac1af-ec6c-4613-ad8d-9437b89c6097,TRUE,P1,BAFFLE,product,2400,mm,0bda654a-5fc2-449b-a7d2-cf0bff03c837,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-551490,ACOUSTIC CEILING BAFFLE Baffle Sonidoa WAVE BAFFLE GLOBUE 2400mm (L) x 275mm (W) x 9mm (T),"Supply and Installation of Sonidoa Baffles Made of 9mm PET Acoustic Panel Globue Ceiling Baffles multiple shades
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,275,,9,,,,,,,3260,
+V BAFFLE,Sonidoa,ARRAY,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/c6eefbb6-0e7d-4332-a5c9-4914808734aa,2400mm (L) x 200mm (W) x 50mm (T),,39259090,fb5fbfef-aa12-4204-a8b9-c99d85feaf26,TRUE,P1,BAFFLE,product,2400,mm,cbcdb4b4-ce75-4022-9255-7f2ffb0c749d,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-873921,ACOUSTIC CEILING BAFFLE Baffle Sonidoa V BAFFLE ARRAY 2400mm (L) x 200mm (W) x 50mm (T),"Supply and Installation of Sonidoa Baffles Made of 9mm PET Acoustic Panel Array Ceiling Baffles
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,200,,50,,,,,,,5640,
+V BAFFLE,Sonidoa,CAMBRIDGE,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/4efd7eac-c650-46a4-a527-c7e1dbc2488a,2400mm (L) x 100mm (W) x 100mm (T),,39259090,9562303f-c621-47ba-98e8-66c5d718e193,TRUE,P1,BAFFLE,product,2400,mm,f17b0925-efce-448c-9431-1b296b76365f,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-241854,ACOUSTIC CEILING BAFFLE Baffle Sonidoa V BAFFLE CAMBRIDGE 2400mm (L) x 100mm (W) x 100mm (T),"Supply of Sonidoa PET Acoustic Cambridge Ceiling Baffles dual shade made of 9mm PET Sheet
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Back filled with PET residues to increase the NRC and properly covered from top
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,100,,100,,,,,,,5000,
+MOULDED ACOUSTIC TILES,Sonidoa,CRATE,ACOUSTIC,Moulded Acoustic,IN,https://s3-dms-prod.flipspaces.app/6105fe02-d5be-4a2e-b73f-7e82055acac3,584mm (L) x 584mm (W),,39259090,6a276d82-6c39-4d9d-837a-d383076610d4,TRUE,P1,MOULDED ACOUSTIC CEILING,product,584,mm,3e3c13cc-d1ca-496c-92fd-12e2abc65fc1,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-787586,ACOUSTIC CEILING MOULDED ACOUSTIC CEILING Moulded Acoustic Sonidoa MOULDED ACOUSTIC TILES CRATE 584mm (L) x 584mm (W),"Supply of Sonidoa THERMOFORMED PET Acoustic Crate 3D Ceiling Tiles
+ 
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,584,,,,,,,,,790,
+MOULDED ACOUSTIC TILES,Sonidoa,SUBTLE,ACOUSTIC,Moulded Acoustic,IN,https://s3-dms-prod.flipspaces.app/3bc3125f-4a10-4395-8160-c50e1f6c1081,584mm (L) x 584mm (W),,39259090,81549c1f-54bc-4742-8677-a34295b23178,TRUE,P1,MOULDED ACOUSTIC CEILING,product,584,mm,e0760e87-263e-45da-90b0-72c3d8a74e27,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-490253,ACOUSTIC CEILING MOULDED ACOUSTIC CEILING Moulded Acoustic Sonidoa MOULDED ACOUSTIC TILES SUBTLE 584mm (L) x 584mm (W),"Supply of Sonidoa THERMOFORMED PET Acoustic Subtle 3D Ceiling Tiles
+ 
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,584,,,,,,,,,790,
+MOULDED ACOUSTIC TILES,Sonidoa,NORDIC,ACOUSTIC,Moulded Acoustic,IN,https://s3-dms-prod.flipspaces.app/a2a994fe-5499-4b6b-b5c2-fcb433c12011,595mm (L) x 595mm (W),,39259090,ee89bc8f-260c-4778-9d94-abdb2724ac70,TRUE,P1,MOULDED ACOUSTIC CEILING,product,595,mm,fadbfd49-15b4-4178-9582-62a4ba5ca883,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-684383,ACOUSTIC CEILING MOULDED ACOUSTIC CEILING Moulded Acoustic Sonidoa MOULDED ACOUSTIC TILES NORDIC 595mm (L) x 595mm (W),"Supply of Sonidoa THERMOFORMED PET Acoustic Nordic 3D Ceiling Tiles
+ 
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,595,,,,,,,,,790,
+MOULDED ACOUSTIC TILES,Sonidoa,FLORA,ACOUSTIC,Moulded Acoustic,IN,https://s3-dms-prod.flipspaces.app/81217862-018c-468e-9368-6b1a56ddc26a,584mm (L) x 584mm (W),,39259090,74efbb7f-77bd-459c-b89a-60d0f7a2ad78,TRUE,P1,MOULDED ACOUSTIC CEILING,product,584,mm,f1c54507-8598-4a70-b5f2-9b4c2dd3a49a,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-279968,ACOUSTIC CEILING MOULDED ACOUSTIC CEILING Moulded Acoustic Sonidoa MOULDED ACOUSTIC TILES FLORA 584mm (L) x 584mm (W),"Supply of Sonidoa THERMOFORMED PET Acoustic Flora 3D Ceiling Tiles
+ 
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ 
+ Qualified for Green Building certification",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,584,,,,,,,,,790,
+MOULDED ACOUSTIC TILES,Sonidoa,CONTRA,ACOUSTIC,Moulded Acoustic,IN,https://s3-dms-prod.flipspaces.app/b2828a32-d86a-4351-a30d-88fa9dfb9b26,595mm (L) x 595mm (W),,39259090,57a0ccd1-b84f-4a5a-b494-0cf4360df2a6,TRUE,P1,MOULDED ACOUSTIC CEILING,product,595,mm,d7e262b3-c251-42f3-bc9d-5f4e296176fe,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-202241,ACOUSTIC CEILING MOULDED ACOUSTIC CEILING Moulded Acoustic Sonidoa MOULDED ACOUSTIC TILES CONTRA 595mm (L) x 595mm (W),"Supply of Sonidoa THERMOFORMED PET Acoustic Contra 3D Ceiling Tiles multiple shades
+ 
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ 
+ Qualified for Green Building certification",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,595,,,,https://s3-dms-prod.flipspaces.app/29335747-ca1e-4740-aa48-7d69dc50bcd5,,,,,790,
+GROOVED CEILING TILES,Sonidoa,FERN,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/33ae6f5e-5651-47d1-802b-3d548656cbf4,595mm (L) x 595mm (W) x 9mm (T),,39259090,234c05c9-89fd-4536-b8e8-bd7de311c302,TRUE,P1,TILE,product,595,mm,7ad15c2f-33ca-492f-b5b0-e6558d7d6292,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-970688,ACOUSTIC CEILING TILE Tile Sonidoa GROOVED CEILING TILES FERN 595mm (L) x 595mm (W) x 9mm (T),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Fern Ceiling Tiles dual shade
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies
+ 
+ 
+ Qualified for Green Building certification",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,595,,9,,,,,,,310,
+GROOVED CEILING TILES,Sonidoa,PULSE,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/2a69ad27-85f7-4f40-855c-e55cb036fe9c,584mm (L) x 584mm (W),,39259090,8b8c9b60-6f7e-4061-b2d5-0cc2bedf72b7,TRUE,P1,TILE,product,584,mm,53bffc4e-3855-441f-8928-9024ef404f2b,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-972655,ACOUSTIC CEILING TILE Tile Sonidoa GROOVED CEILING TILES PULSE 584mm (L) x 584mm (W),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Pulse Ceiling Tiles
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies. 
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,584,,,,,,,,,790,
+GROOVED CEILING TILES,Sonidoa,TRILINEAR,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/4bced4ea-ce8b-4c3c-bf35-3694cd90def1,595mm (L) x 595mm (W) x 9mm (T),,39259090,4a64dfe2-57e4-4909-ad9f-3b9773ff3194,TRUE,P1,TILE,product,595,mm,276f0c46-b6c3-4ef7-b109-8e7c677c4bf0,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-605526,ACOUSTIC CEILING TILE Tile Sonidoa GROOVED CEILING TILES TRILINEAR 595mm (L) x 595mm (W) x 9mm (T),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Trilinear Ceiling Tiles
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies. 
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,595,,9,,,,,,,790,
+GROOVED CEILING TILES,Sonidoa,MATRIX,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/cf33ad1e-b7bc-4bf9-9379-0b6ad6f07b41,595mm (L) x 595mm (W) x 9mm (T),,39259090,c4ca2940-66c1-4ddb-a179-37098c6cbdf2,TRUE,P1,TILE,product,595,mm,1eda01b0-d123-41cd-b06b-ffb2316bdda1,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-588693,ACOUSTIC CEILING TILE Tile Sonidoa GROOVED CEILING TILES MATRIX 595mm (L) x 595mm (W) x 9mm (T),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Matrix Ceiling Tiles
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies. 
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,595,,9,,,,,,,790,
+GROOVED CEILING TILES,Sonidoa,SQUARA,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/2d4bdece-efb0-4589-9edd-18b743a87687,595mm (L) x 595mm (W) x 9mm (T),,39259090,fcc4258d-168c-41fb-9ebc-8f81aea5ea92,TRUE,P1,TILE,product,595,mm,79ac5428-df98-4b09-8399-4fe85784f9f3,SONIDOA COLOR SWATCHES,P-CEI-DEC-ACO-422314,ACOUSTIC CEILING TILE Tile Sonidoa GROOVED CEILING TILES SQUARA 595mm (L) x 595mm (W) x 9mm (T),"Supply and Installation of Sonidoa 9mm V-Grooving PET Acoustic Squara Ceiling Tiles
+ 
+ 
+ 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ Density: 1750 GSM
+ 
+ 
+ ASTM E84 Class B Fire Rated, Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies. 
+ 
+ 
+ Qualified for Green Building certification.",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,595,,9,,,,,,,790,
+ACOUSTIC TILE HERADESIGN SUPERFINE - 0.65 NRC,Armstrong,,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/99b560c5-e7f9-4967-8016-7a5971b36a36,600mm (L) x 600mm (W) x 15mm (T),,39259090,775b5e0a-036e-4f5a-89d1-b31179f2b17d,TRUE,P1,TILE,product,600,mm,3a1f214c-e849-4fa3-b6b3-91491d524f5c,,P-CEI-DEC-ACO-367638,ACOUSTIC CEILING TILE Tile Armstrong ACOUSTIC TILE HERADESIGN SUPERFINE - 0.65 NRC 600mm (L) x 600mm (W) x 15mm (T),"1-layer magnesite bonded wood wool acoustic panel (fibre width approx. 1 mm)
+ 
+ Fine surface texture
+ 
+ Building biology recommended
+ 
+ Up to 0.85 NRC with acoustic lining
+ 
+ Reaction to fire according to EN 13501-1: B s1, d0",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,600,"https://s3-dms-prod.flipspaces.app/65e6f446-6433-4a26-b021-cf5d98325eb5,https://s3-dms-prod.flipspaces.app/e6227d87-cf55-473d-aebb-e15bfbc47fc8,https://s3-dms-prod.flipspaces.app/90a99ddd-1f7b-4cfe-b68a-aa256dbfc592",15,,,,,,,580,
+MOULDED ACCOUSTIC PANEL,Sonidoa,HORA TRAYS,ACOUSTIC,Moulded Acoustic,IN,https://s3-dms-prod.flipspaces.app/67ee8226-7818-457e-8212-f111adca4037,1160mm (L) x 560mm (W) x 90mm (H) x 6mm (T),90,39259090,b740fac8-58d6-42b2-b99d-636d6676b366,TRUE,P1,MOULDED ACOUSTIC CEILING,product,1160,mm,,,P-CEI-DEC-ACO-682765,ACOUSTIC CEILING MOULDED ACOUSTIC CEILING Rectangle Moulded Acoustic Sonidoa MOULDED ACCOUSTIC PANEL HORA TRAYS 1160mm (L) x 560mm (W) x 90mm (H) x 6mm (T),"Process: Thermoforming
+ 
+ 
+ 
+ 
+ 
+ Content: 100% Polyethylene Terephthalate (PET)
+ 
+ 
+ 
+ 
+ 
+ Fire Rating: ASTM E84 Class B Fire Rated
+ 
+ 
+ 
+ 
+ 
+ Low VOC, NRC Certificate and Testing 100Hz to 5000Hz and Response on various frequencies.
+ 
+ 
+ 
+ 
+ 
+ Qualified for Green Building certification.
+ 
+ 
+ Lead time: 4 Weeks",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,560,,6,Rectangle,,Tray,,,,19200,
+ACOUSTIC TILE WITH GRID CEILING - CLASSIC LITE - 0.5 NRC,Armstrong,CLASSIC LITE,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/eda42bf3-9ebc-4f78-b647-a4d9cb24b414,600mm (L) x 600mm (W) x 16mm (T),,39259090,5904055b-62b0-49de-9f52-77374bbe3c2f,TRUE,P1,TILE,product,600,mm,ffd2dd31-c0a8-4b19-839d-3028bb1126de,,P-CEI-DEC-ACO-674370,ACOUSTIC CEILING TILE Tile Armstrong ACOUSTIC TILE WITH GRID CEILING - CLASSIC LITE - 0.5 NRC CLASSIC LITE 600mm (L) x 600mm (W) x 16mm (T),"Armstrong CLASSIC Lite is a mineral acoustic ceiling tile. With its smooth non-directional pinhole surface, it offers an excellent light reflective finish. This makes Armstrong CLASSIC Lite an ideal choice for offices, retail, and educational environments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acoustics: 0.5 NRC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sound attenuation: CAC = 33 dB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Light reflectance: 87%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Grid: Suprafine T15
+ 
+ 
+ 
+ Fire Safety: Class 0/ Class 1 as per BS 476 Pt - 6 & 7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cleanability: Wipeable with dry cloth, Wipeable with damp cloth.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Humidity Resistance: RH 99%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight: 3.1 kgs/m2",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,600,"https://s3-dms-prod.flipspaces.app/13ad0292-f956-4eae-a74b-b00cc41d10a4,https://s3-dms-prod.flipspaces.app/ec4230ee-3c45-41fe-8814-526d64a99b66,https://s3-dms-prod.flipspaces.app/97e07da4-c117-414d-8a7c-562b6574436a,https://s3-dms-prod.flipspaces.app/49d66656-775d-478f-920b-8aaaf6c413ba",16,,,,,,,210,
+ACOUSTIC TILE WITH GRID CEILING - CLASSIC MAX - 0.7 NRC,Armstrong,CLASSIC MAX,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/2566970f-3951-418d-8ad3-f34990754f02,600mm (L) x 600mm (W) x 17mm (T),,39259090,20b63b0a-13ab-4a7b-9e08-afb07078f69b,TRUE,P1,TILE,product,600,mm,41db845c-9b4d-405d-9719-0b4f21ac9a8d,,P-CEI-DEC-ACO-961687,ACOUSTIC CEILING TILE Tile Armstrong ACOUSTIC TILE WITH GRID CEILING - CLASSIC MAX - 0.7 NRC CLASSIC MAX 600mm (L) x 600mm (W) x 17mm (T),"Armstrong CLASSIC Max is a mineral acoustic ceiling tile. With its smooth surface, it offers good sound absorption and good light reflectance. The tile comes with a specialized wax back coating that effectively repels condensate water from penetrating, thereby preventing sagging and stains. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acoustics: 0.7 NRC
+ 
+ 
+ 
+ 
+ 
+ 
+ Sound attenuation: CAC = 30 dB
+ 
+ 
+ 
+ 
+ 
+ 
+ Light reflectance: 85%
+ 
+ 
+ 
+ 
+ 
+ 
+ Grid: Suprafine T15
+ 
+ 
+ 
+ Fire Safety: Class 0/ Class 1 as per BS 476 Pt - 6 & 7
+ 
+ 
+ 
+ 
+ 
+ 
+ Cleanability: Wipeable with dry cloth, Wipeable with damp cloth.
+ 
+ 
+ 
+ 
+ 
+ 
+ Humidity Resistance: RH 99%
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight: 3.91 kgs/m2",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,600,"https://s3-dms-prod.flipspaces.app/13ad0292-f956-4eae-a74b-b00cc41d10a4,https://s3-dms-prod.flipspaces.app/ec4230ee-3c45-41fe-8814-526d64a99b66,https://s3-dms-prod.flipspaces.app/97e07da4-c117-414d-8a7c-562b6574436a,https://s3-dms-prod.flipspaces.app/fc5212e5-4533-4762-b03e-fe45da13ca4a",17,,,,,,,225,
+ACOUSTIC TILE WITH GRID CEILING - SIERRA OP - 0.9 NRC,Armstrong,SIERRA OP,ACOUSTIC,Tile,IN,https://s3-dms-prod.flipspaces.app/c424ecee-9574-4e22-aae6-f1c254b4e8d2,600mm (L) x 600mm (W) x 15mm (T),,39259090,05c15e6a-ab4e-497f-a92e-8413f06eb7a9,TRUE,P1,TILE,product,600,mm,00ceec10-0afc-4ac0-860a-752995ccce9c,,P-CEI-DEC-ACO-317631,ACOUSTIC CEILING TILE Tile Armstrong ACOUSTIC TILE WITH GRID CEILING - SIERRA OP - 0.9 NRC SIERRA OP 600mm (L) x 600mm (W) x 15mm (T),"Armstrong SIERRA OP is a mineral acoustic ceiling tile with its smooth laminated surface, it offers excellent sound absorption. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Acoustics: 0.9 NRC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Sound attenuation: CAC = 25 dB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Light reflectance: 86%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Grid: Suprafine T15
+ 
+ 
+ 
+  Fire Safety: A2 s1,d0 as per EN 13501 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cleanability: Wipeable with dry cloth, Wipeable with damp cloth.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Humidity Resistance: RH 95%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Weight: 2.4 kgs/m2",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,600,"https://s3-dms-prod.flipspaces.app/13ad0292-f956-4eae-a74b-b00cc41d10a4,https://s3-dms-prod.flipspaces.app/ec4230ee-3c45-41fe-8814-526d64a99b66,https://s3-dms-prod.flipspaces.app/d28c79e8-d364-4d23-82ff-ff8ab547b363",15,,,,,,,275,
+GYPTONE ACOUSTICAL BOARD,Saint Gobain,Quattro 71,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/51c0ae9e-830a-4ea3-8b65-153d8d6d269e,2400mm (L) x 1200mm (W),,39259090,a0ddf1ad-c2dc-45ec-8cf9-979b781396c2,TRUE,P1,BLOC,product,2400,mm,,,P-CEI-DEC-ACO-172579,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain GYPTONE ACOUSTICAL BOARD Quattro 71 2400mm (L) x 1200mm (W),"All four side tapered perforated Gypsum Acoustical board having eight quadrants of square shaped perforations of 3x3mm and backed by an acoustical fleece for sound absorption performance and having Activ'Air cleaning powder to ensure sustainable reduction in air pollutants such as formaldehyde.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Square micro perforation
+ 
+ 
+ 
+ 
+ 
+ Size: 1200 x2400 mm
+ 
+ 
+ 
+ 
+ 
+ Perforation: 3mm x 3mm
+ 
+ 
+ 
+ 
+ 
+ Spacing: 25mm c/c
+ 
+ 
+ 
+ 
+ 
+ P Area: 16 %
+ 
+ 
+ 
+ 
+ 
+ Plain Board Siize: 52.9mm
+ 
+ 
+ 
+ 
+ 
+ Center band: 105.3mm
+ 
+ 
+ 
+ 
+ 
+ Perforated Area: 494.5 x 495.4 mm c/c",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,1200,"https://s3-dms-prod.flipspaces.app/ec1598b3-6b2d-4be4-9049-acf169f7a5aa,https://s3-dms-prod.flipspaces.app/9786c367-9e35-4fe6-bade-f502ec78df51",,Rectangle,,,,,,4600,
+GYPTONE ACOUSTICAL BOARD,Saint Gobain,Quattro 41,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/07970cf5-0b68-451f-8c3c-5fd1e1f9143d,2400mm (L) x 1200mm (W),,39259090,eaa4238f-4346-493c-b667-67dcc43d2f96,TRUE,P1,BLOC,product,2400,mm,,,P-CEI-DEC-ACO-224823,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain GYPTONE ACOUSTICAL BOARD Quattro 41 2400mm (L) x 1200mm (W),"All four side tapered perforated Gypsum Acoustical board having eight quadrants of square shaped perforations of 12x12mm and backed by an acoustical fleece for sound absorption performance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Square Perforation
+ 
+ 
+ 
+ 
+ 
+ Perforation: 12mm x 12mm
+ 
+ 
+ 
+ 
+ 
+ Spacing: 25mm c/c
+ 
+ 
+ 
+ 
+ 
+ P Area: 16 %
+ 
+ 
+ 
+ 
+ 
+ Plain board size: 56.5mm
+ 
+ 
+ 
+ 
+ 
+ Center band: 113mm
+ 
+ 
+ 
+ 
+ 
+ Perforated area : 487 x 487 mm c/c",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQFT,1200,"https://s3-dms-prod.flipspaces.app/922275a9-e846-4ddd-9dc9-d12872f51e8d,https://s3-dms-prod.flipspaces.app/5bf75a3e-2f1a-4ecb-a13a-4eadc6a00198",,Rectangle,,,,,,4600,
+RIGITONE ACOUSTICAL BOARD,Saint Gobain,Rigitone 12/25 Q,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/7c3626fb-c151-4c7e-b67c-d02c3cfad972,2000mm (L) x 1200mm (W),,39259090,00663f9f-f844-4b5e-ab23-d2e46adfbdef,TRUE,P1,BLOC,product,2000,mm,,,P-CEI-DEC-ACO-635472,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain RIGITONE ACOUSTICAL BOARD Rigitone 12/25 Q 2000mm (L) x 1200mm (W),"Perforated Gypsum Acoustical board with perforation of 12mm length at 25mm center to center with end to end regular square perforations and backed by an acoustical fleece and having inbuilt Activ'Air Technology to ensure sustainable reduction in indoor air pollutants such as formaldehyde
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Square Perforation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perforation- 23% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perforation size- 12mm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perforation spacing-25mm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight- 9 Kg/ sq.m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Edge – 4 side square
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NRC: 0.55 – 0.9",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQMT,1200,"https://s3-dms-prod.flipspaces.app/166a13da-e5df-49a5-ab79-eb22043d9af6,https://s3-dms-prod.flipspaces.app/7eac94d9-8be2-4e2c-a87d-bbf7224e3461",,Rectangle,,,,,,4600,
+RIGITONE ACOUSTICAL BOARD,Saint Gobain,Rigitone 8/18 Q,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/f50ccfbd-13d6-493d-ba47-488b6a51d1a7,1188mm (L) x 1998mm (W),,39259090,f5cfb5b9-c327-4e59-a1d0-69d2a5ce1135,TRUE,P1,BLOC,product,1188,mm,,,P-CEI-DEC-ACO-806092,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain RIGITONE ACOUSTICAL BOARD Rigitone 8/18 Q 1188mm (L) x 1998mm (W),"Perforated Gypsum Acoustical board with perforation of 8mm length at 18mm center to center with end to end regular square perforations and backed by an acoustical fleece and having inbuilt Activ'Air Technology to ensure sustainable reduction in indoor air pollutants such as formaldehyde.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Square Perforation
+ 
+ 
+ 
+ 
+ 
+ Perforation- 19.8% 
+ 
+ 
+ 
+ 
+ 
+ Perforation size- 8mm
+ 
+ 
+ 
+ 
+ 
+ Perforation spacing-18mm
+ 
+ 
+ 
+ 
+ 
+ Weight- 10 Kg/ sq.m
+ 
+ 
+ 
+ 
+ 
+ Edge – 4 side square
+ 
+ 
+ 
+ 
+ 
+ NRC -0.55 – 0.80",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQMT,1998,"https://s3-dms-prod.flipspaces.app/328682f5-5845-4a34-ae31-ed87d2873ecb,https://s3-dms-prod.flipspaces.app/8cee08b0-1645-4e99-87f8-303d7c2376c3",,Rectangle,,,,,,4600,
+RIGITONE ACOUSTICAL BOARD,Saint Gobain,Rigitone 12-20/66 R,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/0a179559-4191-429e-a88c-c09c0c441ec7,1980mm (L) x 1188mm (W),,39259090,b47b6fce-4a96-4789-9cfa-2a582c2b4ac8,TRUE,P1,BLOC,product,1980,mm,,,P-CEI-DEC-ACO-238745,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain RIGITONE ACOUSTICAL BOARD Rigitone 12-20/66 R 1980mm (L) x 1188mm (W),"Perforated Gypsum Acoustical board having 12 & 20mm diameter end to end regularly staggered round perforations and backed by an acoustical fleece and having Activ'Air cleaning powder to ensure sustainable reduction in air pollutants such as formaldehyde.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Round Perforation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perforation- 19.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perforation size- 12&20mm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perforation spacing-66mm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weight- 9 Kg/ sq.m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Edge – 4 side square
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NRC: 0.75- 0.80",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQMT,1188,"https://s3-dms-prod.flipspaces.app/534da702-05e3-46f1-9210-fb89ca6c1320,https://s3-dms-prod.flipspaces.app/03fa098c-7a77-47da-9df4-cab969c0c921",,Rectangle,,,,,,4600,
+RIGITONE ACOUSTICAL BOARD,Saint Gobain,Rigitone 8-15-20 R,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/8d5ab1fb-23ee-447c-930f-aae1e13ad207,1960mm (L) x 1200mm (W),,39259090,05864865-7b26-469c-b489-dc5e16802d44,TRUE,P1,BLOC,product,1960,mm,,,P-CEI-DEC-ACO-218920,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain RIGITONE ACOUSTICAL BOARD Rigitone 8-15-20 R 1960mm (L) x 1200mm (W),"Perforated Gypsum Acoustical board having 8, 15 &20mm diameter end to end irregularly scattered round perforations and backed by an acoustical fleece and having Activ'Air cleaning powder to ensure sustainable reduction in air pollutants such as formaldehyde.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Round Perforation
+ 
+ 
+ 
+ 
+ 
+ Perforation- 10% 
+ 
+ 
+ 
+ 
+ 
+ Perforation size- 8,15,20mm
+ 
+ 
+ 
+ 
+ 
+ Perforation spacing-Random
+ 
+ 
+ 
+ 
+ 
+ Weight- 10 Kg/ sq.m
+ 
+ 
+ 
+ 
+ 
+ Edge – 4 side square
+ 
+ 
+ 
+ 
+ 
+ NRC -0.55 – 0.60",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQMT,1200,"https://s3-dms-prod.flipspaces.app/dbfeb4e5-1515-4ac7-a69e-8d08f42e634e,https://s3-dms-prod.flipspaces.app/01cee418-cf3c-458d-9d33-59564f9fc2b6",,Rectangle,,,,,,4600,
+RIGITONE ACOUSTICAL BOARD,Saint Gobain,Rigitone 8/18 R,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/40a8224e-e9f2-4226-9980-642eecc89ed6,1980mm (L) x 1188mm (W),,39259090,ebb534ab-7f4f-4289-8147-e6b0137b8de2,TRUE,P1,BLOC,product,1980,mm,,,P-CEI-DEC-ACO-471670,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain RIGITONE ACOUSTICAL BOARD Rigitone 8/18 R 1980mm (L) x 1188mm (W),"Perforated Gypsum Acoustical board having 8mm diameter at 18mm center to center end to end regular round perforations and backed by an acoustical fleece and having Activ'Air cleaning powder to ensure sustainable reduction in air pollutants such as formaldehyde.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Round Perforation
+ 
+ 
+ 
+ 
+ 
+ Perforation- 15.5% 
+ 
+ 
+ 
+ 
+ 
+ Perforation size- 8mm
+ 
+ 
+ 
+ 
+ 
+ Perforation spacing-18mm
+ 
+ 
+ 
+ 
+ 
+ Weight- 9.5 Kg/ sq.m
+ 
+ 
+ 
+ 
+ 
+ Edge – 4 side square
+ 
+ 
+ 
+ 
+ 
+ NRC -0.65 – 0.75",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQMT,1188,"https://s3-dms-prod.flipspaces.app/884fa8d3-809a-4ff9-9e61-0162c37328ad,https://s3-dms-prod.flipspaces.app/39f72e1e-2fa3-4439-8662-8f7d91b6ce21",,Rectangle,,,,,,4600,
+RIGITONE ACOUSTICAL BOARD,Saint Gobain,Rigitone 6/18 R,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/c6382853-2f7e-4672-9cf5-4ee6ff8539e3,1980mm (L) x 1188mm (W),,39259090,e25c8410-db9d-455f-bda9-211fc6793439,TRUE,P1,BLOC,product,1980,mm,,,P-CEI-DEC-ACO-833586,ACOUSTIC CEILING BLOC Rectangle Bloc Saint Gobain RIGITONE ACOUSTICAL BOARD Rigitone 6/18 R 1980mm (L) x 1188mm (W),"Perforated Gypsum Acoustical board with perforation of 6mm diameter at 18mm center to center with end to end regular round perforations and backed by an acoustical fleece and having inbuilt Activ'Air Technology to ensure sustainable reduction in indoor air pollutants such as formaldehyde.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Round Perforation
+ 
+ 
+ 
+ 
+ 
+ Perforation- 8.7% 
+ 
+ 
+ 
+ 
+ 
+ Perforation size- 6mm
+ 
+ 
+ 
+ 
+ 
+ Perforation spacing-18mm
+ 
+ 
+ 
+ 
+ 
+ Weight- 10 Kg/ sq.m
+ 
+ 
+ 
+ 
+ 
+ Edge – 4 side square
+ 
+ 
+ 
+ 
+ 
+ NRC -0.55 – 0.60",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SQMT,1188,"https://s3-dms-prod.flipspaces.app/41fc17b6-342a-4b6c-b76c-f2bc106c0bdf,https://s3-dms-prod.flipspaces.app/1ccadc69-bef7-4c91-92ae-bb579d59ac15",,Rectangle,,,,,,4600,
+ORBIT - GRID,Bajaj Acoustics,,ACOUSTIC,Grid,IN,https://s3-dms-prod.flipspaces.app/1788cbd2-49fd-4f52-bbe4-e96918271591,175mm (H) x 1300mm (D),175,39259090,1dfa133c-91d8-4cbf-8b27-2a689591e373,TRUE,P1,GRID,product,,mm,26b31955-156f-491c-87e2-6f6bb315a3f5,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-900076,ACOUSTIC CEILING GRID Orbit Grid Grid Bajaj Acoustics ORBIT - GRID 175mm (H) x 1300mm (D),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost",active,CEILING,,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,,"https://s3-dms-prod.flipspaces.app/b5d94e9c-486c-46b5-b67c-b35df434577f,https://s3-dms-prod.flipspaces.app/82bd6ad5-ed58-4c77-a71d-6d28f8483a44",,Orbit Grid,https://s3-dms-prod.flipspaces.app/57b2b0a7-4889-4109-921f-bd3a674abb70,,1300,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'-4""(D) x 6""(H)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost"
+TRELLIS - GRID (SET OF 2),Bajaj Acoustics,,ACOUSTIC,Grid,IN,https://s3-dms-prod.flipspaces.app/4d7ee5a5-a097-4d7d-b40b-410c02d29025,1200mm (L) x 1200mm (W) x 225mm (H),225,39259090,40e4bee3-55e6-4262-8904-fd87d5e7984c,TRUE,P1,GRID,product,1200,mm,615367c0-a4a0-4f1d-b403-e88ec5d15b00,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-237252,ACOUSTIC CEILING GRID Trellis Grid Grid Bajaj Acoustics TRELLIS - GRID (SET OF 2) 1200mm (L) x 1200mm (W) x 225mm (H),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos",active,CEILING,,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,1200,"https://s3-dms-prod.flipspaces.app/62983e7d-f4d7-4134-ba24-e4184369f41b,https://s3-dms-prod.flipspaces.app/9077ea94-2e4b-4f2e-9402-f35bd43e97c2",,Trellis Grid,https://s3-dms-prod.flipspaces.app/5a9ae94d-c8be-4036-8b6c-b9cfbbcf1ac1,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 4'(W) x 8""(H)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos"
+LATTICE - GRID,Bajaj Acoustics,,ACOUSTIC,Grid,IN,https://s3-dms-prod.flipspaces.app/8617f507-8950-40be-b28f-a41ec5b875fa,2550mm (L) x 1350mm (W) x 225mm (H),225,39259090,91ccd418-b33a-4a4e-ae92-4aa17fde069f,TRUE,P1,GRID,product,2550,mm,620bdd49-33f3-4474-9fcd-14a536ec233d,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-540542,ACOUSTIC CEILING GRID Lattice Grid Grid Bajaj Acoustics LATTICE - GRID 2550mm (L) x 1350mm (W) x 225mm (H),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost",active,CEILING,,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,1350,"https://s3-dms-prod.flipspaces.app/c1a67418-5c56-4a1e-9740-2bce8c630411,https://s3-dms-prod.flipspaces.app/e0ca729a-8844-48bb-abb4-e719912cc141",,Lattice Grid,https://s3-dms-prod.flipspaces.app/bdd52db9-2794-4e51-b89a-647c7eae95e0,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 4'(W) x 8""(H)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost"
+OBLONG - GRID,Bajaj Acoustics,,ACOUSTIC,Grid,IN,https://s3-dms-prod.flipspaces.app/56368f0f-2841-4114-bc52-b54b3ffc5b9b,2400mm (L) x 1200mm (W) x 225mm (H),225,39259090,2a0e34a5-d6f2-4b5d-986e-b28a63f05eb7,TRUE,P1,GRID,product,2400,mm,fbc37d5c-d47a-434c-bf36-24a20a704e81,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-898578,ACOUSTIC CEILING GRID Oblong Grid Grid Bajaj Acoustics OBLONG - GRID 2400mm (L) x 1200mm (W) x 225mm (H),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost",active,CEILING,,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,1200,"https://s3-dms-prod.flipspaces.app/fe6f44c0-94ae-4284-a807-4bedd3381d51,https://s3-dms-prod.flipspaces.app/48419832-a852-423e-8621-f88cd40f88a8",,Oblong Grid,https://s3-dms-prod.flipspaces.app/f941b858-0b0f-49db-87b5-6fadfbed71d0,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 4'(W) x 8""(H)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Acoustic Grid Joinery :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Precision-cut tongue and groove joint ensures seamless connection in acoustic grid
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost"
+RAIL BAFFLE,Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/f78bb994-d0c3-45e8-88b6-8df81f47eecf,2400mm (L) x 300mm (H) x 45mm (T),300,39259090,ab4a2661-5998-48e3-8ec0-1b0046222321,TRUE,P1,BAFFLE,product,2400,mm,16f74468-3283-4f3b-a9b5-25e99075b735,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-259021,ACOUSTIC CEILING BAFFLE Rail baffle Baffle Bajaj Acoustics RAIL BAFFLE 2400mm (L) x 300mm (H) x 45mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,,"https://s3-dms-prod.flipspaces.app/f7a10d85-2592-42be-a5b6-2ba099b6e995,https://s3-dms-prod.flipspaces.app/a872507e-866a-4d1d-baee-9206b75e6118",45,Rail baffle,https://s3-dms-prod.flipspaces.app/f95c3bdc-a968-4cc4-8f8a-bfd3be375557,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 1'(H) x 1.8""(T)",15780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost"
+RAIL BAFFLE (SET OF 2),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/fa2867b9-f7b0-4e60-af5d-e507c23a8130,2400mm (L) x 200mm (H) x 45mm (T),200,39259090,5dbbaf73-e801-4eb0-aa86-6598403fd61a,TRUE,P1,BAFFLE,product,2400,mm,ed5d1846-eda7-45a4-97e5-86d009bb2be4,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-576737,ACOUSTIC CEILING BAFFLE Rail baffle Baffle Bajaj Acoustics RAIL BAFFLE (SET OF 2) 2400mm (L) x 200mm (H) x 45mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/0ea20364-5c58-4b82-b708-c5f589ec456c,https://s3-dms-prod.flipspaces.app/b91cef21-2e68-49a7-b103-e0ef32784a18",45,Rail baffle,https://s3-dms-prod.flipspaces.app/f675aead-98b5-42ec-9e4f-fe0852ab49ba,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 8""(H) x 1.8""(T)",15780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos"
+RAIL BAFFLE (SET OF 3),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/9341109d-1b44-467a-9b37-440ed403caf9,2400mm (L) x 150mm (H) x 45mm (T),150,39259090,e5c7a635-c8c1-489a-8ecc-14b327c355cd,TRUE,P1,BAFFLE,product,2400,mm,b943f5f3-ca16-496f-91a0-1de2f7a59065,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-244773,ACOUSTIC CEILING BAFFLE Rail baffle Baffle Bajaj Acoustics RAIL BAFFLE (SET OF 3) 2400mm (L) x 150mm (H) x 45mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/0d7ab87e-64b1-4225-bd25-8c430b59bdcb,https://s3-dms-prod.flipspaces.app/b4f4305c-4e31-4211-816b-89fa3879197d",45,Rail baffle,https://s3-dms-prod.flipspaces.app/dc41ac49-7740-40a4-92b2-2ffcc4bc6afe,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 6""(H) x 1.8""(T)",15780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos"
+RAIL BAFFLE (SET OF 3),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/e3ca2f41-818c-46d1-8d43-40c2dc4af913,1200mm (L) x 300mm (H) x 45mm (T),300,39259090,062cd3f4-6380-46a9-873c-9e9855cdc9c1,TRUE,P1,BAFFLE,product,1200,mm,aaa22a7c-35f0-4f07-bbba-179f2b9ae3d8,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-377132,ACOUSTIC CEILING BAFFLE Rail baffle Baffle Bajaj Acoustics RAIL BAFFLE (SET OF 3) 1200mm (L) x 300mm (H) x 45mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/53a70334-2e3a-4bdd-aeeb-6a7e8438bd23,https://s3-dms-prod.flipspaces.app/c9a050b2-c94c-41bc-be37-d147c21f1c32",45,Rail baffle,https://s3-dms-prod.flipspaces.app/5bccd469-816d-40b1-9bfe-61326782da52,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 1'(H) x 1.8""(T)",15780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos"
+RAIL BAFFLE (SET OF 5),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/5944a7df-db1c-4997-8ef8-a95718e4bf22,1200mm (L) x 200mm (H) x 45mm (T),200,39259090,c2bbc759-ed14-42e6-a064-71329eafcefc,TRUE,P1,BAFFLE,product,1200,mm,49fbd644-d5d9-495e-badb-e6b63b8bbd5b,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-981996,ACOUSTIC CEILING BAFFLE Rail baffle Baffle Bajaj Acoustics RAIL BAFFLE (SET OF 5) 1200mm (L) x 200mm (H) x 45mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 5 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/2a7cd2cd-03ad-439a-a18e-9e1781d0604a,https://s3-dms-prod.flipspaces.app/741e3974-8c56-46ad-bc16-ece9789f1f12",45,Rail baffle,https://s3-dms-prod.flipspaces.app/99b6227f-4f92-466c-b6bc-5321a784fbf9,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 8""(H) x 1.8""(T)",15780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 5 nos"
+RAIL BAFFLE (SET OF 6),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/1882c490-6d7a-44fe-9270-37e4804475a5,1200mm (L) x 150mm (H) x 45mm (T),150,39259090,748f4539-576c-49c4-995d-33b006d7df5a,TRUE,P1,BAFFLE,product,1200,mm,2c9fbe66-cc04-4ea9-af9d-e3065fd39211,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-575078,ACOUSTIC CEILING BAFFLE Rail baffle Baffle Bajaj Acoustics RAIL BAFFLE (SET OF 6) 1200mm (L) x 150mm (H) x 45mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/c839a2f1-14a8-4262-a256-e6011795b67a,https://s3-dms-prod.flipspaces.app/bbe0617f-8711-46f0-ad1f-e85a7054623f",45,Rail baffle,https://s3-dms-prod.flipspaces.app/af60eeea-1072-4807-8185-242539dd180f,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 6""(H) x 1.8""(T)",15780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos"
+DAZE BAFFLE,Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/745cfe3e-227e-4342-8446-ed99030d6232,300mm (H) x 1250mm (D) x 9mm (T),300,39259090,05bb3a2c-f473-4b99-a846-b050047281e0,TRUE,P1,BAFFLE,product,,mm,9d43030b-de73-4892-96c5-cf0d9d34d551,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-621374,ACOUSTIC CEILING BAFFLE Daze baffle Baffle Bajaj Acoustics DAZE BAFFLE 300mm (H) x 1250mm (D) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,,"https://s3-dms-prod.flipspaces.app/97f49683-d230-4d71-a909-7dbf6efed951,https://s3-dms-prod.flipspaces.app/bae21189-54c8-486d-bfc8-4e6d99dbc6fc",9,Daze baffle,https://s3-dms-prod.flipspaces.app/1c438f77-f537-4df2-8abc-07e71d6d5e4c,,1250,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'-2""(D) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost"
+DAZE BAFFLE (SET OF 2),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/17006219-c6c8-4fe5-9dc1-04365dcf458e,150mm (H) x 1250mm (D) x 9mm (T),150,39259090,fc1970c0-22a1-493c-8b37-16f45c294f05,TRUE,P1,BAFFLE,product,,mm,fecbba67-1674-459e-8d7b-3fad652c8a6b,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-604804,ACOUSTIC CEILING BAFFLE Daze baffle Baffle Bajaj Acoustics DAZE BAFFLE (SET OF 2) 150mm (H) x 1250mm (D) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/02b7bde0-6d88-4676-8d11-db007758bcfc,https://s3-dms-prod.flipspaces.app/edf0e823-5726-4c1b-91f3-5219c3381ed2",9,Daze baffle,https://s3-dms-prod.flipspaces.app/74af4901-822a-4c26-b4e6-5ea5f02d9c42,,1250,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'-2""(D) x 6""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos"
+WAVE BAFFLE (SET OF 4),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/dc4d1240-8b82-48b6-8f14-f63f767efbff,2400mm (L) x 300mm (H) x 9mm (T),300,39259090,b28f3675-83ed-4156-9349-71263058a260,TRUE,P1,BAFFLE,product,2400,mm,c7c82cd2-4158-48fd-ae4c-3f25ab0e4036,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-134911,ACOUSTIC CEILING BAFFLE Wave baffle Baffle Bajaj Acoustics WAVE BAFFLE (SET OF 4) 2400mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/f0b70545-1068-49a7-9a49-7d63a084c16f,https://s3-dms-prod.flipspaces.app/9ed6387b-9dd4-4c6b-bdd7-0214792f4ecf",9,Wave baffle,https://s3-dms-prod.flipspaces.app/99dbc366-73e0-4023-88cf-cc396a38b82c,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos"
+WAVE BAFFLE (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/7f0072ca-1017-4b54-9e39-93691e368748,2400mm (L) x 200mm (H) x 9mm (T),200,39259090,1d23af5a-a44f-44b7-868a-bf7d6dfc5d35,TRUE,P1,BAFFLE,product,2400,mm,3f2160aa-3518-44e8-a10e-5da412b575d6,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-959398,ACOUSTIC CEILING BAFFLE Wave baffle Baffle Bajaj Acoustics WAVE BAFFLE (SET OF 8) 2400mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/b94d921f-fe85-46ec-8353-91b24fe93947,https://s3-dms-prod.flipspaces.app/ed667a55-791a-4110-8ff4-afb3a632b81e",9,Wave baffle,https://s3-dms-prod.flipspaces.app/ef3732e5-ba71-4546-ad66-e261db5c3f47,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 8""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+RAMP BAFFLE (SET OF 9),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/b1f6a10c-c477-4c25-a912-4c1b05cc75b0,1200mm (L) x 300mm (H) x 9mm (T),300,39259090,68a4bfe0-d487-4d46-af99-69bf7e2d5d75,TRUE,P1,BAFFLE,product,1200,mm,4c0a160e-45b8-4c21-88fb-0f38f011b244,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-245154,ACOUSTIC CEILING BAFFLE Ramp baffle Baffle Bajaj Acoustics RAMP BAFFLE (SET OF 9) 1200mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 9 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/2ea0c190-a538-46db-9b8e-b796b5b81f57,https://s3-dms-prod.flipspaces.app/59882602-164c-4d0d-b258-cd986bd06ab2",9,Ramp baffle,https://s3-dms-prod.flipspaces.app/7bb90dfc-0a1a-4caa-8041-eb261787f963,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 9 nos"
+RAMP BAFFLE (SET OF 16),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/6a770707-aa0d-464e-b475-88029bda8191,1200mm (L) x 200mm (H) x 9mm (T),200,39259090,da24f6ed-9ea7-4bc4-afca-d194682e33a6,TRUE,P1,BAFFLE,product,1200,mm,1e1c0073-17ac-4db6-834f-0353119852bc,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-347172,ACOUSTIC CEILING BAFFLE Ramp baffle Baffle Bajaj Acoustics RAMP BAFFLE (SET OF 16) 1200mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/4ef3232f-5abb-4842-94b8-be5eb660f381,https://s3-dms-prod.flipspaces.app/8214ce60-566c-4b1b-9449-e8729234f751",9,Ramp baffle,https://s3-dms-prod.flipspaces.app/2ea99044-f484-43e4-aae3-3b8ff0ffd612,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 8""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos"
+SLANT BAFFLE (SET OF 4),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/7644db76-432b-487c-965d-40bc9673c0ec,2400mm (L) x 300mm (H) x 9mm (T),300,39259090,a72f2bbb-c155-4522-9a11-833bf5c99a98,TRUE,P1,BAFFLE,product,2400,mm,5284a20e-d6fa-46e8-9e4a-0c410aff3d21,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-938125,ACOUSTIC CEILING BAFFLE Slant baffle Baffle Bajaj Acoustics SLANT BAFFLE (SET OF 4) 2400mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/238aa215-60cb-4849-9211-cbc18ac848c9,https://s3-dms-prod.flipspaces.app/60d5b18f-81bf-447b-9121-02d38ccb42b8",9,Slant baffle,https://s3-dms-prod.flipspaces.app/ff30dd0a-9c76-4144-b385-c78a9d1c081a,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos"
+SLANT BAFFLE (SET OF 6),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/7e4bf639-214b-4cea-b012-5709d2d42882,2400mm (L) x 200mm (H) x 9mm (T),200,39259090,0eabc810-f5fc-44a9-be87-9d59424f53a3,TRUE,P1,BAFFLE,product,2400,mm,4985d293-df0f-4a3b-a714-24a02c095221,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-761770,ACOUSTIC CEILING BAFFLE Slant baffle Baffle Bajaj Acoustics SLANT BAFFLE (SET OF 6) 2400mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/4921a407-6b38-4582-9af0-81263c312f12,https://s3-dms-prod.flipspaces.app/c29948ac-6dae-4305-97c2-43f10f7a3868",9,Slant baffle,https://s3-dms-prod.flipspaces.app/32fd29bb-5143-4dec-b591-6fda919edcfd,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 8""(H) x 0.35""(T)",16780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos"
+SLANT BAFFLE (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/a26857f2-51dd-4db6-8da6-41f28a68d839,2400mm (L) x 150mm (H) x 9mm (T),150,39259090,609f9c5e-94e3-43da-93dd-58e225554705,TRUE,P1,BAFFLE,product,2400,mm,a71eddf5-c1d8-4718-94aa-4f7d58656f7c,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-584365,ACOUSTIC CEILING BAFFLE Slant baffle Baffle Bajaj Acoustics SLANT BAFFLE (SET OF 8) 2400mm (L) x 150mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/83e06bbc-338e-4846-8961-f6c6599f5115,https://s3-dms-prod.flipspaces.app/e3a505fe-e241-4ae6-af97-a06d95890d3a",9,Slant baffle,https://s3-dms-prod.flipspaces.app/764313ef-e5a1-4189-9675-d4d5bf661e02,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 6""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+SLANT BAFFLE (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/9a678bc4-986b-463e-bf94-020aa74b5b07,1200mm (L) x 300mm (H) x 9mm (T),300,39259090,fef94741-c784-405a-94c5-718d5d150ea5,TRUE,P1,BAFFLE,product,1200,mm,dd3575c2-6e2c-4efd-9f24-24ccadd16c3c,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-352073,ACOUSTIC CEILING BAFFLE Slant baffle Baffle Bajaj Acoustics SLANT BAFFLE (SET OF 8) 1200mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/86e284e7-c86f-4733-9715-16ce943c441b,https://s3-dms-prod.flipspaces.app/2417cbd6-8200-4e30-97f5-6653f3b3c6ab",9,Slant baffle,https://s3-dms-prod.flipspaces.app/eb1b7752-40d1-433b-8212-194e6f8e7905,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+SLANT BAFFLE (SET OF 12),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/6b15d593-ae47-48b9-86be-5c740461ed13,1200mm (L) x 200mm (H) x 9mm (T),200,39259090,2e1afe4b-92cf-433a-b9ef-568bb1a35236,TRUE,P1,BAFFLE,product,1200,mm,91c3bfdf-b198-4ee0-9643-0e2a11f8ba85,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-935626,ACOUSTIC CEILING BAFFLE Slant baffle Baffle Bajaj Acoustics SLANT BAFFLE (SET OF 12) 1200mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/2c6331b5-1864-41ca-9473-6473cc0a764e,https://s3-dms-prod.flipspaces.app/3e27e2ea-e9ec-47d3-bead-ab0dfa7ed78b",9,Slant baffle,https://s3-dms-prod.flipspaces.app/522b10dd-fa5a-4c5a-933f-a7fbd4125dac,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 8""(H) x 0.35""(T)",17280,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos"
+SLANT BAFFLE (SET OF 16),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/0457703a-56fb-49bc-94c5-3fd302454c42,1200mm (L) x 150mm (H) x 9mm (T),150,39259090,c94083a0-f798-43ac-a346-cfc5f586214f,TRUE,P1,BAFFLE,product,1200,mm,f91d5136-c6b3-41d4-96f7-5406331b5330,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-837454,ACOUSTIC CEILING BAFFLE Slant baffle Baffle Bajaj Acoustics SLANT BAFFLE (SET OF 16) 1200mm (L) x 150mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/ae05509f-cfae-4f4f-afd6-9d37729d35aa,https://s3-dms-prod.flipspaces.app/129d9763-9a7c-4cb9-82bf-eb5d1b0b1864",9,Slant baffle,https://s3-dms-prod.flipspaces.app/e3c49e4c-13cf-4052-be3f-0c4d76c1529f,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 6""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos"
+CAPSULE BAFFLE (SET OF 4),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/c5a021bb-270a-4a58-ac80-42d2a4282323,2400mm (L) x 300mm (H) x 9mm (T),300,39259090,13ef6b35-38b2-4b1b-a385-ad1708447545,TRUE,P1,BAFFLE,product,2400,mm,116ca1b1-f946-4499-a2ce-74168ca5a8a5,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-471099,ACOUSTIC CEILING BAFFLE Capsule baffle Baffle Bajaj Acoustics CAPSULE BAFFLE (SET OF 4) 2400mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/327d9fd1-7d33-4ab0-851d-19d3fbc3ae88,https://s3-dms-prod.flipspaces.app/4adbfaa7-19dc-4ad1-a9b9-b58e532f1609",9,Capsule baffle,https://s3-dms-prod.flipspaces.app/f7c6492e-7eac-4af5-b49c-b8ecb0ace403,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos"
+CAPSULE BAFFLE (SET OF 6),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/9cb1e9e1-859a-4923-a795-6f477c3ae663,2400mm (L) x 200mm (H) x 9mm (T),200,39259090,817cfd66-a5b9-4dec-8e36-d6859c77f8d9,TRUE,P1,BAFFLE,product,2400,mm,204e0f11-c649-4561-8b7a-0d57b284a4d1,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-691351,ACOUSTIC CEILING BAFFLE Capsule baffle Baffle Bajaj Acoustics CAPSULE BAFFLE (SET OF 6) 2400mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/d308fe4a-c88e-4426-b7f1-0db6a45077d3,https://s3-dms-prod.flipspaces.app/d1690666-83d6-4f7e-86e2-caa0af79abac",9,Capsule baffle,https://s3-dms-prod.flipspaces.app/189fdf31-677d-4cc2-ba85-5fac73548caa,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 8""(H) x 0.35""(T)",16780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos"
+CAPSULE BAFFLE (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/10c60878-ff00-4b71-8a65-047b80f5dae2,2400mm (L) x 150mm (H) x 9mm (T),150,39259090,9f0dd1b1-f776-4c1d-b8a3-2629dffb2da0,TRUE,P1,BAFFLE,product,2400,mm,b24711a9-cc93-4681-829b-d9aaa68a0bcb,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-206246,ACOUSTIC CEILING BAFFLE Capsule baffle Baffle Bajaj Acoustics CAPSULE BAFFLE (SET OF 8) 2400mm (L) x 150mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/a0603629-8e2b-4f00-bf86-95cab37afa56,https://s3-dms-prod.flipspaces.app/c7971a03-516f-4afa-be3b-489f66983995",9,Capsule baffle,https://s3-dms-prod.flipspaces.app/78f30d34-2ddf-497a-83a1-ab7f5342563f,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 6""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+CAPSULE BAFFLE (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/b0ab4037-b2a1-45e6-888a-828a477c9767,1200mm (L) x 300mm (H) x 9mm (T),300,39259090,7a628eaa-cc30-40e2-a976-d2f890db8fd7,TRUE,P1,BAFFLE,product,1200,mm,3a0399b4-ee98-447b-b81c-5f97127904a6,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-363143,ACOUSTIC CEILING BAFFLE Capsule baffle Baffle Bajaj Acoustics CAPSULE BAFFLE (SET OF 8) 1200mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/f7b6b278-cc3a-451d-8664-2ef572f18611,https://s3-dms-prod.flipspaces.app/da1d79e0-2df0-4f90-87d0-72c881bb3d48",9,Capsule baffle,https://s3-dms-prod.flipspaces.app/bfba2d36-cd8a-41ae-bde3-3e092a0243f5,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+CAPSULE BAFFLE (SET OF 12),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/e59fb900-d228-48b3-bd3c-8507bf559604,1200mm (L) x 200mm (H) x 9mm (T),200,39259090,ec29e9a3-9f8f-4bb6-84a2-66010919880a,TRUE,P1,BAFFLE,product,1200,mm,bac77a78-f1e8-4ec6-ae45-88509f9a94d5,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-338394,ACOUSTIC CEILING BAFFLE Capsule baffle Baffle Bajaj Acoustics CAPSULE BAFFLE (SET OF 12) 1200mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/cccfff1a-8daf-4fac-8817-3bd4a6960004,https://s3-dms-prod.flipspaces.app/a0b95ead-b5f1-49c1-be35-edcf0a3e6df2",9,Capsule baffle,https://s3-dms-prod.flipspaces.app/c8ae28e4-5162-4032-846b-6dad0750c82e,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 8""(H) x 0.35""(T)",17280,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos"
+CAPSULE BAFFLE (SET OF 16),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/bbdf3478-427f-4add-84ef-d821d074171e,1200mm (L) x 150mm (H) x 9mm (T),150,39259090,f1ab9bae-dab5-415b-b0d0-e578a72eccf0,TRUE,P1,BAFFLE,product,1200,mm,5709aed5-2bbe-4553-901e-6661a7795224,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-364109,ACOUSTIC CEILING BAFFLE Capsule baffle Baffle Bajaj Acoustics CAPSULE BAFFLE (SET OF 16) 1200mm (L) x 150mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/4f2374d7-17e5-40aa-9e9d-671abc8e9387,https://s3-dms-prod.flipspaces.app/bce51fac-95f6-4896-8a8d-7297136dc0be",9,Capsule baffle,https://s3-dms-prod.flipspaces.app/b6e86da7-a9a6-48b1-9345-4ab3b6bbeb5f,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 6""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos"
+LINEAR BAFFLE (SET OF 4),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/d037436f-a7d6-4d36-b478-106ca4b3376e,2400mm (L) x 300mm (H) x 9mm (T),300,39259090,b1f46937-8175-4e40-a40b-feeeaa334df7,TRUE,P1,BAFFLE,product,2400,mm,4f6a32f0-19ff-4560-af2d-4ab398dfa7f3,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-777226,ACOUSTIC CEILING BAFFLE Linear baffle Baffle Bajaj Acoustics LINEAR BAFFLE (SET OF 4) 2400mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/ca85899c-8d26-470d-a614-ed207e8c7bfc,https://s3-dms-prod.flipspaces.app/18545140-89fd-4bb5-a6ad-09e6f467b9ef",9,Linear baffle,https://s3-dms-prod.flipspaces.app/c6ddc807-0713-47a0-b6c2-e76604d1e761,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos"
+LINEAR BAFFLE (SET OF 6),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/cde7aad1-7b11-40cc-8160-99c79e93dae7,2400mm (L) x 200mm (H) x 9mm (T),200,39259090,8072674f-3fa1-4189-a489-39bce40be4c9,TRUE,P1,BAFFLE,product,2400,mm,c5a964fd-7fd2-4bae-8675-3442b997388c,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-621237,ACOUSTIC CEILING BAFFLE Linear baffle Baffle Bajaj Acoustics LINEAR BAFFLE (SET OF 6) 2400mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/7aef69be-6a81-4cb6-80d4-bfa469dc3821,https://s3-dms-prod.flipspaces.app/a722909a-9bc6-43c5-8a82-dbd177a41bc3",9,Linear baffle,https://s3-dms-prod.flipspaces.app/8da6e588-c98f-424a-bb64-255281c653a9,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 8""(H) x 0.35""(T)",16780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos"
+LINEAR BAFFLE (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/815cddf7-5558-4a2e-be09-721b61a023d3,2400mm (L) x 150mm (H) x 9mm (T),150,39259090,70da0c31-2bd3-4e33-a529-637afcc69f87,TRUE,P1,BAFFLE,product,2400,mm,cbb2c4a9-cbcc-44a6-a0d4-e427a03dcbd1,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-719742,ACOUSTIC CEILING BAFFLE Linear baffle Baffle Bajaj Acoustics LINEAR BAFFLE (SET OF 8) 2400mm (L) x 150mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/e84bb89e-231c-450f-86be-af96588f2fd6,https://s3-dms-prod.flipspaces.app/fa0a1af3-9e59-46ba-a76b-5337e13b788a",9,Linear baffle,https://s3-dms-prod.flipspaces.app/63c3c0f0-5363-4e14-bda8-2a83cb45c414,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 6""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+LINEAR BAFFLE (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/d023bd69-bff2-4df8-9671-5b615cb715ab,1200mm (L) x 300mm (H) x 9mm (T),300,39259090,aaf452bc-b4b4-4937-8728-5a60f9230659,TRUE,P1,BAFFLE,product,1200,mm,cce27a13-090d-4a15-b6ec-dfeaaf56ff37,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-144747,ACOUSTIC CEILING BAFFLE Linear baffle Baffle Bajaj Acoustics LINEAR BAFFLE (SET OF 8) 1200mm (L) x 300mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/a3d20f4d-cc2a-49d7-ae0d-69318182f53c,https://s3-dms-prod.flipspaces.app/b8a7635a-f3d6-493c-9d2f-c5f6bd47f646",9,Linear baffle,https://s3-dms-prod.flipspaces.app/47a483fe-35e4-419f-a6c0-157aa696db28,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 1'(H) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+LINEAR BAFFLE (SET OF 12),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/7b8540e5-68d3-449a-a42d-f62f86c566bc,1200mm (L) x 200mm (H) x 9mm (T),200,39259090,5d8568eb-4f16-444b-99ba-8f89f57a341a,TRUE,P1,BAFFLE,product,1200,mm,e6f1a783-0088-4f72-9d37-fffe91451a5e,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-158944,ACOUSTIC CEILING BAFFLE Linear baffle Baffle Bajaj Acoustics LINEAR BAFFLE (SET OF 12) 1200mm (L) x 200mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/d86dac44-897c-4b73-bac9-025f47787e43,https://s3-dms-prod.flipspaces.app/a0d46a16-24dc-4c23-b8a3-31b9e6a7c94d",9,Linear baffle,https://s3-dms-prod.flipspaces.app/1cc3ea43-3b96-4d4f-8b36-1c7a3c40f3ef,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 8""(H) x 0.35""(T)",17280,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos"
+LINEAR BAFFLE (SET OF 16),Bajaj Acoustics,,ACOUSTIC,Baffle,IN,https://s3-dms-prod.flipspaces.app/28d82084-5894-463d-b45f-309f0b6600f3,1200mm (L) x 150mm (H) x 9mm (T),150,39259090,95343d2b-e5d5-4b30-bb6f-cbd3b471460f,TRUE,P1,BAFFLE,product,1200,mm,176273f3-ec17-446c-a803-6977ce64d4e0,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-534504,ACOUSTIC CEILING BAFFLE Linear baffle Baffle Bajaj Acoustics LINEAR BAFFLE (SET OF 16) 1200mm (L) x 150mm (H) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,"https://s3-dms-prod.flipspaces.app/e26de99a-e90d-4818-9129-42151c5496dc,https://s3-dms-prod.flipspaces.app/37ead4a0-1427-4113-893f-6f3349d5104c",9,Linear baffle,https://s3-dms-prod.flipspaces.app/221feffb-e0b9-4adb-b3eb-507a97d693c4,,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 6""(H) x 0.35""(T)",19780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class """"A"""", Class """"B"""", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with metal profile, string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 16 nos"
+HEXAGON - PLAIN PANEL (SET OF 2),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/05b61fbf-b6bd-407a-9dd3-cae395e455aa,1039mm (L) x 1200mm (W) x 9mm (T),,39259090,6b8704cd-4eea-46ea-a874-560a7bed3ce3,TRUE,P1,BLOC,product,1039,mm,00c8c678-b39e-46e9-8cc9-9288434db0e8,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-516162,ACOUSTIC CEILING BLOC Hexagon Bloc Bajaj Acoustics HEXAGON - PLAIN PANEL (SET OF 2) 1039mm (L) x 1200mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,1200,https://s3-dms-prod.flipspaces.app/269f7c33-621e-4637-b312-4981d6920c5f,9,Hexagon,https://s3-dms-prod.flipspaces.app/4e4b6bf5-f290-4fb5-b9cf-bd050f3bd4db,Hexagon shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","3.46'(L) x 4'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos"
+HEXAGON - PLAIN PANEL (SET OF 3),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/4d0132b0-b8eb-41b9-8f37-5109272ddec6,779mm (L) x 900mm (W) x 9mm (T),,39259090,912fd94d-6ee0-4bdf-b890-f296a70423f5,TRUE,P1,BLOC,product,779,mm,9559d018-660b-44b0-8158-c8e6006ddbbf,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-215211,ACOUSTIC CEILING BLOC Hexagon Bloc Bajaj Acoustics HEXAGON - PLAIN PANEL (SET OF 3) 779mm (L) x 900mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,900,https://s3-dms-prod.flipspaces.app/e73bced8-1828-4543-87f8-7164435bbde3,9,Hexagon,https://s3-dms-prod.flipspaces.app/577a6d19-3da7-47f7-876a-043552d87074,Hexagon shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","2.60'(L) x 3'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos"
+HEXAGON - PLAIN PANEL (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/3d4f468a-0d2d-473d-a59b-e42de2c82d2f,520mm (L) x 600mm (W) x 9mm (T),,39259090,80d4bc42-ec44-4581-ab3e-9f05f59fcb90,TRUE,P1,BLOC,product,520,mm,8dd303ee-e2e5-4d19-8daa-6773613cb284,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-462942,ACOUSTIC CEILING BLOC Hexagon Bloc Bajaj Acoustics HEXAGON - PLAIN PANEL (SET OF 8) 520mm (L) x 600mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,600,https://s3-dms-prod.flipspaces.app/d21779b8-30c3-4e0e-a787-9c1580ffe09a,9,Hexagon,https://s3-dms-prod.flipspaces.app/d598e673-a5d2-4e82-b5d2-00f982534880,Hexagon shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","1.73'(L) x 2'(W) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+TRIANGLE - PLAIN PANEL (SET OF 3),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/eb26c189-3ece-4e4c-8961-0ebd430c8e18,1200mm (L) x 1039mm (W) x 9mm (T),,39259090,7ae20f25-0503-4174-a6da-d8b088d8f157,TRUE,P1,BLOC,product,1200,mm,f650376f-a0b5-49a2-8ce3-822399881be0,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-161779,ACOUSTIC CEILING BLOC Triangle Bloc Bajaj Acoustics TRIANGLE - PLAIN PANEL (SET OF 3) 1200mm (L) x 1039mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,1039,https://s3-dms-prod.flipspaces.app/8cb899de-b6fc-48ac-82f3-ae409f537107,9,Triangle,https://s3-dms-prod.flipspaces.app/58b5a24c-b20d-4984-8c23-968b2fee2b6b,Triangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 3.46'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos"
+TRIANGLE - PLAIN PANEL (SET OF 12),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/deb2a6aa-ec1d-4504-8f68-2d7540d12561,690mm (L) x 598mm (W) x 9mm (T),,39259090,420baead-94d1-4295-86d1-e0131b0fafbb,TRUE,P1,BLOC,product,690,mm,6f99a3ba-fc3a-4921-a454-568dd147171a,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-651807,ACOUSTIC CEILING BLOC Triangle Bloc Bajaj Acoustics TRIANGLE - PLAIN PANEL (SET OF 12) 690mm (L) x 598mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,598,https://s3-dms-prod.flipspaces.app/e5f67024-97f1-4d5c-a020-968efc38c6d3,9,Triangle,https://s3-dms-prod.flipspaces.app/e0e1eb5f-c682-4271-b60a-ec1e0c77c7af,Triangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","2.3'(L) x 2'(W) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 12 nos"
+TRIANGLE - PLAIN PANEL (SET OF 14),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/adf42b2e-58a8-4c0d-b08a-89b0316223dc,600mm (L) x 520mm (W) x 9mm (T),,39259090,8a05a3e0-55e0-4f3b-b7fe-9982c3af4fbd,TRUE,P1,BLOC,product,600,mm,d5541110-5ca0-4232-a5b1-c6bab51225a4,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-386261,ACOUSTIC CEILING BLOC Triangle Bloc Bajaj Acoustics TRIANGLE - PLAIN PANEL (SET OF 14) 600mm (L) x 520mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 14 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,520,https://s3-dms-prod.flipspaces.app/65c07913-02b7-4859-86c7-d582c3467fe9,9,Triangle,https://s3-dms-prod.flipspaces.app/5cbce164-5e91-476d-944f-b9857661b6d4,Triangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","2'(L) x 1.73'(W) x 0.35""(T)",16030,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 14 nos"
+CIRCLE - PLAIN PANEL (SET OF 2),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/5a8a4272-38f3-41f7-9e79-8a5df4cd3e90,1200mm (D) x 9mm (T),,39259090,ae4b59bb-d32f-4fb4-9c1e-502753f1755b,TRUE,P1,BLOC,product,,mm,3f071e1f-8dee-4743-b024-f310983f49c7,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-268093,ACOUSTIC CEILING BLOC Circle Bloc Bajaj Acoustics CIRCLE - PLAIN PANEL (SET OF 2) 1200mm (D) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,https://s3-dms-prod.flipspaces.app/b806328a-489d-4b88-a6fb-e7cb20f0e734,9,Circle,https://s3-dms-prod.flipspaces.app/9f39e638-f21d-4275-b69a-fd22cca847a2,Circle shaped bloc,1200,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(D) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos"
+CIRCLE - PLAIN PANEL (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/6a87ecf4-0e66-4869-95f7-814e7aa67bc6,600mm (D) x 9mm (T),,39259090,a922d282-bf2d-42aa-8deb-e3761c1ccd36,TRUE,P1,BLOC,product,,mm,afa11508-afd7-4a8b-86ca-b2edba9717a1,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-143145,ACOUSTIC CEILING BLOC Circle Bloc Bajaj Acoustics CIRCLE - PLAIN PANEL (SET OF 8) 600mm (D) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,,https://s3-dms-prod.flipspaces.app/5a369b02-f885-4855-8420-9b240f45a4dc,9,Circle,https://s3-dms-prod.flipspaces.app/7252dc5a-de1e-4015-980c-7148bd88199e,Circle shaped bloc,600,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","2'(D) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"
+RECTANGLE - PLAIN PANEL,Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/964a97da-ea57-4df6-b9ae-cf08d77ae3bc,2400mm (L) x 1200mm (W) x 9mm (T),,39259090,c9addf5f-0293-4483-b91d-36d6435272ce,TRUE,P1,BLOC,product,2400,mm,ca75bf9b-5df5-45b7-9de2-f01748b8c738,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-314216,ACOUSTIC CEILING BLOC Rectangle Bloc Bajaj Acoustics RECTANGLE - PLAIN PANEL 2400mm (L) x 1200mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,NOS,1200,https://s3-dms-prod.flipspaces.app/89e17b32-16e2-4805-986b-3e728858efc3,9,Rectangle,https://s3-dms-prod.flipspaces.app/469088d2-77b4-4d70-a3a3-b2ac1aeb2355,Rectangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 4'(W) x 0.35""(T)",10380,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost"
+RECTANGLE - PLAIN PANEL (SET OF 2),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/8be376a2-ad0a-45c3-aca7-ad6c023c78aa,2400mm (L) x 600mm (W) x 9mm (T),,39259090,29b93e9a-bbf0-44cf-93ab-d1da5fc064d5,TRUE,P1,BLOC,product,2400,mm,9dcc8ba6-2960-4358-b8d0-53913acbdc08,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-574489,ACOUSTIC CEILING BLOC Rectangle Bloc Bajaj Acoustics RECTANGLE - PLAIN PANEL (SET OF 2) 2400mm (L) x 600mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,600,https://s3-dms-prod.flipspaces.app/0e9d09a2-3367-4e12-8d24-3ffeaa4a0a1b,9,Rectangle,https://s3-dms-prod.flipspaces.app/a699d41b-123b-4f18-ba5e-d38cb142fc26,Rectangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","8'(L) x 2'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos"
+RECTANGLE - PLAIN PANEL (SET OF 3),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/219a51d5-60f9-41bd-b4da-519bed138413,1200mm (L) x 800mm (W) x 9mm (T),,39259090,3dd1b088-32db-4bc0-9ce4-b04b35e473bd,TRUE,P1,BLOC,product,1200,mm,ca5ab588-d508-4487-9f69-1061b010bd77,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-107388,ACOUSTIC CEILING BLOC Rectangle Bloc Bajaj Acoustics RECTANGLE - PLAIN PANEL (SET OF 3) 1200mm (L) x 800mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,800,https://s3-dms-prod.flipspaces.app/429db800-8cff-4c64-a3f6-fbd1835dba10,9,Rectangle,https://s3-dms-prod.flipspaces.app/9fee174b-63a4-4e4a-8155-23db00de4321,Rectangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 2'-8""(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 3 nos"
+RECTANGLE - PLAIN PANEL (SET OF 4),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/9a6c82dc-e6d8-4724-b0c9-6ae0e007fced,1200mm (L) x 600mm (W) x 9mm (T),,39259090,792e567a-fa1e-4fa5-93f8-9f01eb545c9c,TRUE,P1,BLOC,product,1200,mm,ebdb3bf0-616b-46f9-a865-7c51a4180fed,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-799226,ACOUSTIC CEILING BLOC Rectangle Bloc Bajaj Acoustics RECTANGLE - PLAIN PANEL (SET OF 4) 1200mm (L) x 600mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,600,https://s3-dms-prod.flipspaces.app/43f08e4b-dd0e-434f-bef2-4e357a1f51b2,9,Rectangle,https://s3-dms-prod.flipspaces.app/d1d1c699-63fe-4426-9ba8-4192a127090b,Rectangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 2'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 4 nos"
+RECTANGLE - PLAIN PANEL (SET OF 6),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/643e9a02-4917-4a7f-ab6a-e129afadb491,800mm (L) x 600mm (W) x 9mm (T),,39259090,f72a1c30-522e-4b41-9d10-5c9b3a0c575f,TRUE,P1,BLOC,product,800,mm,05661a6c-36f2-4282-8f11-6e5c169f846f,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-295693,ACOUSTIC CEILING BLOC Rectangle Bloc Bajaj Acoustics RECTANGLE - PLAIN PANEL (SET OF 6) 800mm (L) x 600mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,600,https://s3-dms-prod.flipspaces.app/c393981a-e9f1-48c9-a267-da98b0efda4b,9,Rectangle,https://s3-dms-prod.flipspaces.app/8789c3dc-315a-4e45-91c8-f0a4e2c2e253,Rectangle shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","2'-8""(L) x 2'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 6 nos"
+SQUARE - PLAIN PANEL (SET OF 2),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/ef82378e-8bd0-4ccd-bdc4-2dc868fecc9e,1200mm (L) x 1200mm (W) x 9mm (T),,39259090,5eb7c1bc-a6be-41ee-a317-0c62684131e3,TRUE,P1,BLOC,product,1200,mm,5e0a574d-ff45-4fc9-aed2-989ae25b3c3c,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-523505,ACOUSTIC CEILING BLOC Square Bloc Bajaj Acoustics SQUARE - PLAIN PANEL (SET OF 2) 1200mm (L) x 1200mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,1200,https://s3-dms-prod.flipspaces.app/226d2264-229e-49f9-b23e-36489ccd5819,9,Square,https://s3-dms-prod.flipspaces.app/ec15b78a-5cab-40a7-9cc7-e22ff4b428b3,Square shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","4'(L) x 4'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 2 nos"
+SQUARE - PLAIN PANEL (SET OF 8),Bajaj Acoustics,,ACOUSTIC,Bloc,IN,https://s3-dms-prod.flipspaces.app/21694487-963f-41ef-a992-e27eef49f524,600mm (L) x 600mm (W) x 9mm (T),,39259090,dead0713-fb88-45c9-85c2-9c2bc6c7fe9c,TRUE,P1,BLOC,product,600,mm,e20d8647-c43f-4b5f-9fee-426e08dc0b49,ACOUSTIC COLOR SWATCHES,P-CEI-DEC-ACO-227679,ACOUSTIC CEILING BLOC Square Bloc Bajaj Acoustics SQUARE - PLAIN PANEL (SET OF 8) 600mm (L) x 600mm (W) x 9mm (T),"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos",active,CEILING,mm,0b7512a4-ea92-4ef1-8d11-2b64aa23e74b,P_CEILING_DECORATIVE CEILING_ACOUSTIC CEILING,SET,600,https://s3-dms-prod.flipspaces.app/7a994077-99a2-4481-b3c9-0b46f595eb93,9,Square,https://s3-dms-prod.flipspaces.app/3e168cc0-19f9-4799-b3d6-bf2cbc477c6d,Square shaped bloc,,"Reception,Waiting Area,Conference Room,Meeting Room,Discussion Room,Director Cabin,Breakout Area,Work Lounge Area","2'(L) x 2'(W) x 0.35""(T)",14780,"--Composition :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++100 % Polyester Fiber.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Panel Size :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++8' x 4' / 2440 x 1220mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Thickness :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++9mm.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Fire Rating :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Class ""A"", Class ""B"", as per ASTM E - 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Hardware Fitting :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Suspension cable system with string and fastener.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Inclusive of Hardware & Installation cost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Other Details :
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ++Set of 8 nos"

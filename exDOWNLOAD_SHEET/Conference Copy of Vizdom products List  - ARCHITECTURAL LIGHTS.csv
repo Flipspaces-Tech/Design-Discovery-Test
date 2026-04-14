@@ -1,0 +1,2239 @@
+boq_name,brand,category,color,config,countries,default_image,dimensions,height,hsn_code,id,is_preferred,item_class,item_name,item_style,item_type,lwhd_metric,product_color_dynamic,sku_id,sku_name,space_tag,specifications,status,sub_category,template_id,template_name,theme,type,unit,width,images,light_temperature_dynamic,diameter,model_3d,diffuser_type_dynamic,length1,t_metric,thickness,color_temperature_dynamic,model_no_dynamic,default_image_mobile,Selling Price
+RECESSED FLEXI CURVI-LINEAR LIGHT,RIPPL,LIGHTING,,Curvi,IN,https://s3-dms-prod.flipspaces.app/57229b82-5563-464e-810b-0348022eab1d,56mm (W) x 26mm (H),26,94054200,a683d042-dfcb-4642-80c8-5fe1d4d3a578,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-620444,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Ceiling Recessed Light Curvi RIPPL RECESSED FLEXI CURVI-LINEAR LIGHT 56mm (W) x 26mm (H),,"Wattage : 15/18/20/24 W
+ 
+ Beam Angle : Wide
+ 
+ CRI >80/90
+ 
+ CCT 3000/4000/5700
+ 
+ Controls : Switchable,Analog, DALI
+ 
+ Lumen Maintenance(L70/B10) : 60,000 hrs
+ 
+ Operating Temperature : 0 - 45°C
+ 
+ Appliance Class : Class I
+ 
+ Ingress Protection : IP20
+ 
+ Ceiling Recessed Light",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Ceiling Recessed Light,RFT,56,,,,,,,,,,,,
+RECESSED RIGID CURVI-LINEAR LIGHT,RIPPL,LIGHTING,,Curvi,IN,https://s3-dms-prod.flipspaces.app/e464fc22-7cb2-40cc-933b-05550c5f6f2a,37mm (W) x 35mm (H),35,94054200,752d072a-100b-4d2c-a764-fba2582036f1,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-413918,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Ceiling Recessed Light Curvi RIPPL RECESSED RIGID CURVI-LINEAR LIGHT 37mm (W) x 35mm (H),,"Wattage : 15/18/20/24 W
+ 
+ Beam Angle : Wide
+ 
+ CRI >80/90
+ 
+ CCT 3000/4000/5700
+ 
+ Controls : Switchable,Analog, DALI
+ 
+ Lumen Maintenance(L70/B10) : 60,000 hrs
+ 
+ Operating Temperature : 0 - 45°C
+ 
+ Appliance Class : Class I
+ 
+ Ingress Protection : IP20
+ 
+ Ceiling Recessed Light",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Ceiling Recessed Light,RFT,37,,,,,,,,,,,,
+SUSPENDED CURVI-LINEAR LIGHT,RIPPL,LIGHTING,,Curvi,IN,https://s3-dms-prod.flipspaces.app/c4d2cad3-30dd-4f67-bd32-f5e5508ceef9,40mm (W) x 45mm (H),45,94054200,a9aee364-ccec-4bb4-8be4-f1168691ea80,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-969003,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Ceiling Suspended Light Curvi RIPPL SUSPENDED CURVI-LINEAR LIGHT 40mm (W) x 45mm (H),,"Wattage : 22/25 W
+ 
+ Beam Angle : Wide
+ 
+ CRI >80/90
+ 
+ CCT 3000/4000/5700
+ 
+ Controls : Switchable,Analog, DALI
+ 
+ Lumen Maintenance(L70/B10) : 60,000 hrs
+ 
+ Operating Temperature : 0 - 45°C
+ 
+ Appliance Class : Class I
+ 
+ Ingress Protection : IP20
+ 
+ Ceiling Suspended Light
+ 
+ Light Type: Direct Lighting, Direct-Indirect Lighting",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Ceiling Suspended Light,RFT,40,"https://s3-dms-prod.flipspaces.app/4c8c2a9e-c821-43f6-b5f0-5d7c852dbf18,https://s3-dms-prod.flipspaces.app/cd597dc1-283d-4b0b-aa28-bcd646335765",,,,,,,,,,,
+SUSPENDED CURVI-LINEAR LIGHT,RIPPL,LIGHTING,,Curvi,IN,https://s3-dms-prod.flipspaces.app/c4d2cad3-30dd-4f67-bd32-f5e5508ceef9,50mm (W) x 80mm (H),80,94054200,1fce23a9-4a8c-4c47-bd17-c14f26f1489d,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-443947,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Ceiling Suspended Light Curvi RIPPL SUSPENDED CURVI-LINEAR LIGHT 50mm (W) x 80mm (H),,"Wattage : 22/25 W
+ 
+ Beam Angle : Wide
+ 
+ CRI >80/90
+ 
+ CCT 3000/4000/5700
+ 
+ Controls : Switchable,Analog, DALI
+ 
+ Lumen Maintenance(L70/B10) : 60,000 hrs
+ 
+ Operating Temperature : 0 - 45°C
+ 
+ Appliance Class : Class I
+ 
+ Ingress Protection : IP20
+ 
+ Ceiling Suspended Light
+ 
+ Light Type: Direct Lighting, Direct-Indirect Lighting",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Ceiling Suspended Light,RFT,50,"https://s3-dms-prod.flipspaces.app/99d8f2e2-ad89-4576-8654-dfdfbec1267b,https://s3-dms-prod.flipspaces.app/cd597dc1-283d-4b0b-aa28-bcd646335765",,,,,,,,,,,
+AXIS SMOOTH CURVI-LINEAR LIGHT 20W,Clove,LIGHTING,,Linear,IN,https://s3-dms-prod.flipspaces.app/dcdee144-22ea-4ca2-9726-0c3b14c37195,50mm (W) x 77mm (H),77,94054200,c31c17f9-50a9-4e0c-9e28-ff65fd19f9f8,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-216333,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Ceiling Suspended Light Linear Clove AXIS SMOOTH CURVI-LINEAR LIGHT 20W 50mm (W) x 77mm (H),,"Construction Details: White powder coated aluminum housing
+ 
+ 
+ Power: 
+ 
+  20W/mtr with Inbuilt driver
+ 
+ 
+ Total Flux: 2000 Lm/mtr
+ 
+ 
+ Standard Radiuses: 300, 450, 600, 750, 900, 1200, 1500, 1800, 2100, 2400, 2700, 3000
+ 
+ 
+ 
+ 
+ Delivery Lead Time : 
+ 
+ 3-5 weeks
+ 
+ 
+ Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Ceiling Suspended Light,RFT,50,"https://s3-dms-prod.flipspaces.app/8016cc5b-5c9e-4fdc-a95c-90ae5a8d6dd7,https://s3-dms-prod.flipspaces.app/8a022cba-55bb-4c8b-90b3-b7c90022c76d",KELVIN,,,,,,,,,,2300
+AXIS SMOOTH CURVI-LINEAR LIGHT 30W,Clove,LIGHTING,,Linear,IN,https://s3-dms-prod.flipspaces.app/dcdee144-22ea-4ca2-9726-0c3b14c37195,50mm (W) x 77mm (H),77,94054200,73e5073d-a515-48b3-ba20-3b9b7d246f14,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-682813,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Ceiling Suspended Light Linear Clove AXIS SMOOTH CURVI-LINEAR LIGHT 30W 50mm (W) x 77mm (H),,"Construction Details: White powder coated aluminum housing
+ 
+ 
+ Power: 
+ 
+  30W/mtr with Inbuilt driver
+ 
+ 
+ Total Flux: 3000 Lm/mtr
+ 
+ 
+ Standard Radiuses: 300, 450, 600, 750, 900, 1200, 1500, 1800, 2100, 2400, 2700, 3000
+ 
+ 
+ 
+ 
+ Delivery Lead Time : 
+ 
+ 3-5 weeks
+ 
+ 
+ Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Ceiling Suspended Light,RFT,50,"https://s3-dms-prod.flipspaces.app/8016cc5b-5c9e-4fdc-a95c-90ae5a8d6dd7,https://s3-dms-prod.flipspaces.app/8a022cba-55bb-4c8b-90b3-b7c90022c76d",KELVIN,,,,,,,,,,2300
+ORBIT RING CEILING LIGHT,Wipro,LIGHTING,,,IN,https://s3-dms-prod.flipspaces.app/c51cf89b-4acd-49ec-b6be-c399813fe427,600mm (D),,94054200,14dc7b2e-41a0-4dfa-a15a-6ad0cad1201a,TRUE,P2,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-615104,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT DRUM Wipro ORBIT RING CEILING LIGHT 600mm (D),Ceiling,"Sleek drum-shaped ceiling pendant light with a minimalist design. Provides warm, diffused illumination, perfect for office spaces. Modern and versatile, ideal for various interior styles
+ 
+ 
+ 
+ Installation : Ceiling Suspended
+ 
+ 
+ 
+ Delivery Lead Time : 3 - 5 Weeks
+ 
+ Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,DRUM,NOS,,,,600,23d8ef71-7c7d-4657-b568-57716413e284,,,,,,,,10800
+ORBIT DRUM CEILING LIGHT,Wipro,LIGHTING,,,IN,https://s3-dms-prod.flipspaces.app/82dbef76-69c0-477d-a5a1-f37b5e2223c8,600mm (D),,94054200,ebf5f90b-cc91-4a79-ada3-88ad067ecf66,TRUE,P2,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-569232,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT RING Wipro ORBIT DRUM CEILING LIGHT 600mm (D),Ceiling,"Elegant and modern, this ring-shaped ceiling pendant light features a sleek, minimalist design with energy-efficient LED illumination. Perfect for offices, it adds a sophisticated ambiance
+ 
+ 
+ 
+ Installation : Ceiling Suspended
+ 
+ 
+ 
+ Delivery Lead Time : 3 - 5 Weeks
+ 
+ Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,RING,NOS,,,,600,8f0b525c-b8ae-4656-b496-3883de6e1ee6,,,,,,,,10800
+EDGE LUME - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Edge - Cornered Rectangle,IN,https://s3-dms-prod.flipspaces.app/66a0a62a-11c9-4955-94a4-a9c7cbbb67c6,6950 (L) x 3600 (W) x 77 (H) x 50mm (T),77,94054200,1c658da6-eb52-43f1-8440-308d481754fe,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-469864,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Edge - Cornered Rectangle Clove EDGE LUME - CUSTOM MADE PROFILE LIGHT 6950 (L) x 3600 (W) x 77 (H) x 50mm (T),Ceiling,"Sleek, modern rectangular custom-made profile lights, crafted for elegant illumination. Precision-engineered with high-quality materials, they offer seamless integration, customizable sizes, and premium LED technology for sophisticated, energy-efficient lighting in any space
+ 
+ 
+ 
+ Installation : Ceiling Suspended
+ 
+ Diffuser Choice : Opal or Prismatic
+ 
+ Profile Size : Width 50mm (2"") X Height 77mm (3"")
+ 
+ Profile Color : White or Black
+ 
+ Customization : The radius of the Edge can be modified to any size larger than 300mm (1')
+ 
+ Correlated Color Temperature (CCT) : 3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ Delivery Lead Time : 20 days
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,3600,https://s3-dms-prod.flipspaces.app/5417e102-48af-4857-b3fc-fec988ec2a6f,KELVIN,,,DIFFUSER TYPE SWATCH,6950,mm,50,,,,1600
+RECTAGLOW - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered Rectangle,IN,https://s3-dms-prod.flipspaces.app/9da48184-1282-4165-b315-589f3e9bc906,2750 (L) x 1850 (W) x 77 (H) x 50mm (T),77,94054200,fc901286-4fa5-442a-8520-86ce205c9b9e,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-129092,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered Rectangle Clove RECTAGLOW - CUSTOM MADE PROFILE LIGHT 2750 (L) x 1850 (W) x 77 (H) x 50mm (T),Ceiling,"Designed for sophistication and efficiency, custom made profile lights provide smooth, diffused lighting
+ Custom made for unique spaces, they blend aesthetic appeal with practicality, creating a striking visual impact
+ 
+ Installation : Ceiling Suspended
+ Diffuser Choice : Opal or Prismatic
+ Profile Size : Width 50mm (2"") X Height 77mm (3"")
+ Profile Color : White or Black
+ Customization : The radius of the Edge can be modified to any size larger than 300mm (1')
+ Correlated Color Temperature (CCT) : 3000K, 4000K, 5000K, 6000K
+ 
+ Delivery Lead Time : 20 days
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1850,https://s3-dms-prod.flipspaces.app/558d23ea-1990-4330-bf79-fc3758d776fd,KELVIN,,,DIFFUSER TYPE SWATCH,2750,mm,50,,,,2600
+RECTAGLOW - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered Rectangle,IN,https://s3-dms-prod.flipspaces.app/3fbf8fb0-77b3-4392-b232-47e8fd3b43ad,2450 (L) x 2150 (W) x 77 (H) x 50mm (T),77,94054200,cada8828-0c09-4c7e-8394-9dcb8c0585b4,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-716509,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered Rectangle Clove RECTAGLOW - CUSTOM MADE PROFILE LIGHT 2450 (L) x 2150 (W) x 77 (H) x 50mm (T),Ceiling,"Designed for sophistication and efficiency, custom-made profile lights provide smooth, diffused lighting
+ Custom-made for unique spaces, they blend aesthetic appeal with practicality, creating a striking visual impact
+ 
+ Installation : Ceiling Suspended
+ Diffuser Choice : Opal or Prismatic
+ Profile Size : Width 50mm (2"") X Height 77mm (3"")
+ Profile Color : White or Black
+ Customization : The radius of the Edge can be modified to any size larger than 300mm (1')
+ Correlated Color Temperature (CCT) : 3000K, 4000K, 5000K, 6000K
+ 
+ Delivery Lead Time : 20 days
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,2150,https://s3-dms-prod.flipspaces.app/cb0a6f0c-a2e5-4208-a976-4984d4dd9520,KELVIN,,,DIFFUSER TYPE SWATCH,2450,mm,50,,,,2600
+RECTAGLOW - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered Rectangle,IN,https://s3-dms-prod.flipspaces.app/51e0e2da-ea4d-4e61-8f36-18411a263103,3050 (L) x 3050 (W) x 77 (H) x 50mm (T),77,94054200,99382810-2750-4b03-bfe0-7475c34c50c7,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-216052,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered Rectangle Clove RECTAGLOW - CUSTOM MADE PROFILE LIGHT 3050 (L) x 3050 (W) x 77 (H) x 50mm (T),Ceiling,"Designed for sophistication and efficiency, custom made profile lights provide smooth, diffused lighting
+ Custom made for unique spaces, they blend aesthetic appeal with practicality, creating a striking visual impact
+ 
+ Installation : Ceiling Suspended
+ Diffuser Choice : Opal or Prismatic
+ Profile Size : Width 50mm (2"") X Height 77mm (3"")
+ Profile Color : White or Black
+ Customization : The radius of the Edge can be modified to any size larger than 300mm (1')
+ Correlated Color Temperature (CCT) : 3000K, 4000K, 5000K, 6000K
+ 
+ Delivery Lead Time : 20 days
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,3050,https://s3-dms-prod.flipspaces.app/390eaa21-389a-4a4b-915e-b8125326cea0,KELVIN,,,DIFFUSER TYPE SWATCH,3050,mm,50,,,,2600
+ARCHALO - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered,IN,https://s3-dms-prod.flipspaces.app/bc516d80-2d70-4bc4-aebb-297510743398,14600 (L) x 11450 (W) x 77 (H) x 50mm (T),77,94054200,cf896cf0-9319-405f-93eb-7577eb497855,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-207031,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered Clove ARCHALO - CUSTOM MADE PROFILE LIGHT 14600 (L) x 11450 (W) x 77 (H) x 50mm (T),Ceiling,"Featuring a sleek, curved design, custom profile lights offer a perfect balance of form and function
+ Ideal for contemporary spaces, they provide elegant, uniform lighting with a modern touch
+ 
+ Installation : Ceiling Suspended
+ Diffuser Choice : Opal or Prismatic
+ Profile Size : Width 50mm (2"") X Height 77mm (3"")
+ Profile Color : White or Black
+ Customization : The radius of the Edge can be modified to any size larger than 300mm (1')
+ Correlated Color Temperature (CCT) : 3000K, 4000K, 5000K, 6000K
+ 
+ Delivery Lead Time : 20 days
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,11450,https://s3-dms-prod.flipspaces.app/b8042a06-cdc2-422a-8d8e-a481758472c4,KELVIN,,,DIFFUSER TYPE SWATCH,14600,mm,50,,,,3400
+ELLIPSE AURA - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered,IN,https://s3-dms-prod.flipspaces.app/eeaf5112-2639-4d13-a39a-c9968d378f62,77 (H) x 50mm (T),77,94054200,d44d98e1-6b70-4573-be9c-46d3e85a14df,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-468551,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered Clove ELLIPSE AURA - CUSTOM MADE PROFILE LIGHT 77 (H) x 50mm (T),Ceiling,"Sleek and modern, custom-made profile lights blend elegance with functionality. Perfect for architectural and interior applications, they offer seamless illumination, enhancing spaces with their unique curvature and ambient glow
+ 
+ Installation : Ceiling Suspended
+ Diffuser Choice : Opal or Prismatic
+ Profile Size : Width 50mm (2"") X Height 77mm (3"")
+ Profile Color : White or Black
+ Customization : The radius of the Edge can be modified to any size larger than 300mm (1')
+ Correlated Color Temperature (CCT) : 3000K, 4000K, 5000K, 6000K
+ 
+ Delivery Lead Time : 20 days
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,,https://s3-dms-prod.flipspaces.app/902577ef-ec1e-44a3-b196-a2614845b46c,KELVIN,,,DIFFUSER TYPE SWATCH,,mm,50,,,,3400
+CURVOLUXE - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Rectangular with Soft corner,IN,https://s3-dms-prod.flipspaces.app/5e07d6db-b431-4831-871f-30147f233ebd,3000mm (L) x 1200mm (W) x 77mm (H) x 50 (T),77,94054200,f3752d77-fa6a-4ea2-8168-b6b31ea0e25b,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-753501,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Rectangular with Soft corner Clove CURVOLUXE - CUSTOM MADE PROFILE LIGHT 3000mm (L) x 1200mm (W) x 77mm (H) x 50 (T),Ceiling,"CurvoLuxe - Custom Made Profile Light feature a sleek, modern design with smooth, rounded corners, offering soft, diffused LED illumination. These energy efficient fixtures provide customizable lighting solutions, enhancing the ambiance of various spaces. Their minimalistic aesthetic complements a wide range of interiors, adding a sophisticated touch while ensuring even, glare free lighting.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Customization : 
+ 
+ 
+ 
+ 
+ ++The radius of the Edge can be modified to any size larger than 300mm (1')
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1200,"https://s3-dms-prod.flipspaces.app/1776ccbf-dd1c-4436-b8a9-fbcd1964970f,https://s3-dms-prod.flipspaces.app/de808177-050c-4db3-8871-88612523003a",KELVIN,,4df4c203-c6c8-4594-9996-9c85c726f3e5,DIFFUSER TYPE SWATCH,3000,,50,,,,2100
+CURVOLUXE - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Rectangular with Soft corner,IN,https://s3-dms-prod.flipspaces.app/05c359cc-439b-4482-b1df-8c418ebb533d,2400mm (L) x 1200mm (W) x 77mm (H) x 50 (T),77,94054200,1c01c623-7ac1-432e-830c-9443c697807f,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-981418,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Rectangular with Soft corner Clove CURVOLUXE - CUSTOM MADE PROFILE LIGHT 2400mm (L) x 1200mm (W) x 77mm (H) x 50 (T),Ceiling,"CurvoLuxe - Custom Made Profile Light feature a sleek, modern design with smooth, rounded corners, offering soft, diffused LED illumination. These energy efficient fixtures provide customizable lighting solutions, enhancing the ambiance of various spaces. Their minimalistic aesthetic complements a wide range of interiors, adding a sophisticated touch while ensuring even, glare free lighting.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Customization : 
+ 
+ 
+ 
+ 
+ ++The radius of the Edge can be modified to any size larger than 300mm (1')
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1200,"https://s3-dms-prod.flipspaces.app/a5edc1c3-9e8d-4222-aa36-dbe3d2a0d278,https://s3-dms-prod.flipspaces.app/922e4144-092d-482e-8a9f-62b3e2671b87",KELVIN,,59014596-1472-426d-a5d5-7b4ec07aecd6,DIFFUSER TYPE SWATCH,2400,,50,,,,2100
+CURVOLUXE - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Rectangular with Soft corner,IN,https://s3-dms-prod.flipspaces.app/a6b9dc89-77ef-4745-a2f5-00bb3653fe8a,1800mm (L) x 900mm (W) x 77mm (H) x 50 (T),77,94054200,34412c69-c2e8-41cd-a27e-28451de4842a,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-637546,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Rectangular with Soft corner Clove CURVOLUXE - CUSTOM MADE PROFILE LIGHT 1800mm (L) x 900mm (W) x 77mm (H) x 50 (T),Ceiling,"CurvoLuxe - Custom Made Profile Light feature a sleek, modern design with smooth, rounded corners, offering soft, diffused LED illumination.
+ 
+ These energy efficient fixtures provide customizable lighting solutions, enhancing the ambiance of various spaces.
+ 
+ Their minimalistic aesthetic complements a wide range of interiors, adding a sophisticated touch while ensuring even, glare free lighting.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"") X Height 77mm (3"")
+ 
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ 
+ --Customization : 
+ 
+ 
+ 
+ 
+ 
+ ++The radius of the Edge can be modified to any size larger than 300mm (1')
+ 
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,900,"https://s3-dms-prod.flipspaces.app/10ab7880-5fb8-48b1-93da-1503d7b4e4ee,https://s3-dms-prod.flipspaces.app/887972b4-6636-4014-a453-e4fcab4daac0",KELVIN,,2cd9b878-4abd-4028-b089-710a4688cfb7,DIFFUSER TYPE SWATCH,1800,,50,,,,2100
+QUADRAGLINT - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered square,IN,https://s3-dms-prod.flipspaces.app/e247323e-f9e8-4378-8690-599881e29a45,1500mm (L) x 1500mm (W) x 77mm (H) x 50 (T),77,94054200,40eea23b-b40c-4e99-9744-340dbff5e24f,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-800411,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered square Clove QUADRAGLINT - CUSTOM MADE PROFILE LIGHT 1500mm (L) x 1500mm (W) x 77mm (H) x 50 (T),Ceiling,"QuadraGlint - Custom Made Profile Light feature a sleek, modern design with smooth, rounded corners, offering soft, diffused LED illumination. These energy efficient fixtures provide customizable lighting solutions, enhancing the ambiance of various spaces. Their minimalistic aesthetic complements a wide range of interiors, adding a sophisticated touch while ensuring even, glare free lighting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Customization : 
+ 
+ 
+ 
+ 
+ ++The radius of the Edge can be modified to any size larger than 300mm (1')
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1500,"https://s3-dms-prod.flipspaces.app/ddc1e30b-3516-473f-850b-22041161ff10,https://s3-dms-prod.flipspaces.app/64495deb-b031-4e2b-8126-32737d4c1ebd",KELVIN,,0c5c91f1-d128-4282-afd7-83f992054146,DIFFUSER TYPE SWATCH,1500,,50,,,,2100
+QUADRAGLINT - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered square,IN,https://s3-dms-prod.flipspaces.app/1cd0ed43-95c1-40a1-af1d-160224e0e953,1200mm (L) x 1200mm (W) x 77mm (H) x 50 (T),77,94054200,ee6ebedb-254a-426a-9f44-45af05303a5f,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-591860,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered square Clove QUADRAGLINT - CUSTOM MADE PROFILE LIGHT 1200mm (L) x 1200mm (W) x 77mm (H) x 50 (T),Ceiling,"QuadraGlint - Custom Made Profile Light feature a sleek, modern design with smooth, rounded corners, offering soft, diffused LED illumination. These energy efficient fixtures provide customizable lighting solutions, enhancing the ambiance of various spaces. Their minimalistic aesthetic complements a wide range of interiors, adding a sophisticated touch while ensuring even, glare free lighting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Customization : 
+ 
+ 
+ 
+ 
+ ++The radius of the Edge can be modified to any size larger than 300mm (1')
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1200,"https://s3-dms-prod.flipspaces.app/d31b8a33-adb0-4e00-b639-ef25c96c1b08,https://s3-dms-prod.flipspaces.app/cdbf5a5e-efc8-4ace-a815-b2b0376960ac",KELVIN,,75c91c42-f3f4-4019-9db2-cd59a9d574a1,DIFFUSER TYPE SWATCH,1200,,50,,,,2100
+QUADRAGLINT - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Smooth - Cornered square,IN,https://s3-dms-prod.flipspaces.app/dd5af24a-a8be-4e51-be58-d95b32105d60,900mm (L) x 900mm (W) x 77mm (H) x 50 (T),77,94054200,51f49dd9-ef55-4012-8dbf-481db347d88c,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-655560,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Smooth - Cornered square Clove QUADRAGLINT - CUSTOM MADE PROFILE LIGHT 900mm (L) x 900mm (W) x 77mm (H) x 50 (T),Ceiling,"QuadraGlint - Custom Made Profile Light feature a sleek, modern design with smooth, rounded corners, offering soft, diffused LED illumination.
+ 
+ These energy efficient fixtures provide customizable lighting solutions, enhancing the ambiance of various spaces.
+ 
+ Their minimalistic aesthetic complements a wide range of interiors, adding a sophisticated touch while ensuring even, glare free lighting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"") X Height 77mm (3"")
+ 
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ 
+ --Customization : 
+ 
+ 
+ 
+ 
+ 
+ ++The radius of the Edge can be modified to any size larger than 300mm (1')
+ 
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,900,"https://s3-dms-prod.flipspaces.app/161be05d-bc2f-42f1-91b2-a2ac1eb789a1,https://s3-dms-prod.flipspaces.app/7222bfd2-0d84-4474-89e1-6275c525adf7",KELVIN,,772231ce-27b5-4f59-823f-93afa8389d1b,DIFFUSER TYPE SWATCH,900,,50,,,,2100
+RECTALUME - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Rectangular with Edge corner,IN,https://s3-dms-prod.flipspaces.app/bd9eafee-990f-40ac-bb28-e629fe64b982,3000mm (L) x 1200mm (W) x 77mm (H) x 50mm (T),77,94054200,3eb4eeb8-2b1c-4ddc-a089-0d1735126a00,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-956145,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Rectangular with Edge corner Clove RECTALUME - CUSTOM MADE PROFILE LIGHT 3000mm (L) x 1200mm (W) x 77mm (H) x 50mm (T),Ceiling,"RectaLume - Custom Made Profile Light offers a contemporary and stylish lighting option, enhancing interiors with its sharp geometry and understated design. Built from high quality aluminum, this fixture boasts a four sided structure with meticulously crafted straight edges, providing long lasting durability and a premium appearance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1200,"https://s3-dms-prod.flipspaces.app/9229c464-ba3d-45a8-93bc-7b688c13ca0d,https://s3-dms-prod.flipspaces.app/90827ea0-5fc4-43a8-85c8-f31618977953",KELVIN,,5ee6e5ce-311a-4244-a253-924a9fb1938e,DIFFUSER TYPE SWATCH,3000,mm,50,,,,1100
+RECTALUME - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Rectangular with Edge corner,IN,https://s3-dms-prod.flipspaces.app/a57d41ad-24f6-42be-8ee2-522566018b6d,2400mm (L) x 1200mm (W) x 77mm (H) x 50mm (T),77,94054200,e731bbfc-10eb-43b8-84f5-03eaafc48cba,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-183563,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Rectangular with Edge corner Clove RECTALUME - CUSTOM MADE PROFILE LIGHT 2400mm (L) x 1200mm (W) x 77mm (H) x 50mm (T),Ceiling,"RectaLume - Custom Made Profile Light offers a contemporary and stylish lighting option, enhancing interiors with its sharp geometry and understated design. Built from high quality aluminum, this fixture boasts a four sided structure with meticulously crafted straight edges, providing long lasting durability and a premium appearance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1200,"https://s3-dms-prod.flipspaces.app/529b96df-df7b-4425-981e-1e982825c070,https://s3-dms-prod.flipspaces.app/c81ef132-42f5-4c18-b884-3371b03ae914",KELVIN,,37a89d91-830d-40a5-a50c-a8aa578a64aa,DIFFUSER TYPE SWATCH,2400,mm,50,,,,1100
+RECTALUME - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Rectangular with Edge corner,IN,https://s3-dms-prod.flipspaces.app/88c78bca-2261-4715-8a94-8c23985fb8b4,1800mm (L) x 900mm (W) x 77mm (H) x 50mm (T),77,94054200,97bdcd9e-7d19-49ed-8a4c-a10c1a70e279,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-645843,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Rectangular with Edge corner Clove RECTALUME - CUSTOM MADE PROFILE LIGHT 1800mm (L) x 900mm (W) x 77mm (H) x 50mm (T),Ceiling,"RectaLume - Custom Made Profile Light offers a contemporary and stylish lighting option,
+ 
+ enhancing interiors with its sharp geometry and understated design
+ 
+ Built from high quality aluminum, this fixture boasts a four sided structure with meticulously crafted straight edges,
+ 
+ providing long lasting durability and a premium appearance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"") X Height 77mm (3"")
+ 
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,900,"https://s3-dms-prod.flipspaces.app/f1efecd7-0e01-4370-a5cc-0a7345eb3e43,https://s3-dms-prod.flipspaces.app/36cc0059-1182-43bc-8053-89df316b0c18,https://s3-dms-prod.flipspaces.app/55925131-326f-4166-a959-e5246e223fb2",KELVIN,,0164b0ab-46bd-424e-a227-91757a517680,DIFFUSER TYPE SWATCH,1800,mm,50,,,,1100
+QUADEDGE AURA - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Edge - Cornered square,IN,https://s3-dms-prod.flipspaces.app/0744122a-d41f-4225-a05f-211614e1a9aa,1500mm (L) x 1500mm (W) x 77mm (H) x 50mm (T),77,94054200,8f91d749-f369-406d-adb1-011277dacbaf,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-890538,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Edge - Cornered square Clove QUADEDGE AURA - CUSTOM MADE PROFILE LIGHT 1500mm (L) x 1500mm (W) x 77mm (H) x 50mm (T),Ceiling,"QuadEdge Aura - Custom Made Profile Light offers a contemporary and stylish lighting option, enhancing interiors with its sharp geometry and understated design. Built from high quality aluminum, this fixture boasts a four sided structure with meticulously crafted straight edges, providing long lasting durability and a premium appearance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1500,"https://s3-dms-prod.flipspaces.app/f00e91cd-f249-4593-832d-caa9a374f4b0,https://s3-dms-prod.flipspaces.app/39d4bd13-21bf-42d5-a9ec-3876feb5f638",KELVIN,,bcaa4138-1239-4381-9710-388da45bdf6f,DIFFUSER TYPE SWATCH,1500,mm,50,,,,1100
+QUADEDGE AURA - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Edge - Cornered square,IN,https://s3-dms-prod.flipspaces.app/99e6bc78-3501-4ff9-9d5f-80d3a3d7f7fa,1200mm (L) x 1200mm (W) x 77mm (H) x 50mm (T),77,94054200,e4b82a93-1666-44c2-80bf-e4a0d28283e6,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-695987,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Edge - Cornered square Clove QUADEDGE AURA - CUSTOM MADE PROFILE LIGHT 1200mm (L) x 1200mm (W) x 77mm (H) x 50mm (T),Ceiling,"QuadEdge Aura - Custom Made Profile Light offers a contemporary and stylish lighting option, enhancing interiors with its sharp geometry and understated design. Built from high quality aluminum, this fixture boasts a four sided structure with meticulously crafted straight edges, providing long lasting durability and a premium appearance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"""") X Height 77mm (3"""")
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,1200,"https://s3-dms-prod.flipspaces.app/75314bea-3cea-4a11-8b55-0b159d3d7924,https://s3-dms-prod.flipspaces.app/e0f9acba-4ff4-4019-a7f8-33efb91b9a38",KELVIN,,b77dcda0-510a-4e69-808f-f44f6199a3e2,DIFFUSER TYPE SWATCH,1200,mm,50,,,,1100
+QUADEDGE AURA - CUSTOM MADE PROFILE LIGHT,Clove,LIGHTING,,Edge - Cornered square,IN,https://s3-dms-prod.flipspaces.app/4edf9a16-3b34-4842-becc-9aee2280a7bd,900mm (L) x 900mm (W) x 77mm (H) x 50mm (T),77,94054200,e12553ef-0834-4a19-a2a3-7826aaa2cb4d,TRUE,P1,CUSTOM MADE PROFILE LIGHT,,product,mm,OUTER FRAME COLOR SWATCH,P-LIG-ARC-CUS-310137,LIGHTING ARCHITECTURAL LIGHTS CUSTOM MADE PROFILE LIGHT Custom - Made Ceiling Suspension Light Edge - Cornered square Clove QUADEDGE AURA - CUSTOM MADE PROFILE LIGHT 900mm (L) x 900mm (W) x 77mm (H) x 50mm (T),Ceiling,"QuadEdge Aura - Custom Made Profile Light offers a contemporary and stylish lighting option,
+ 
+ enhancing interiors with its sharp geometry and understated design.
+ 
+ Built from high quality aluminum, this fixture boasts a four sided structure with meticulously crafted straight edges,
+ 
+ providing long lasting durability and a premium appearance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Installation : 
+ 
+ 
+ 
+ 
+ 
+ ++Ceiling Suspended
+ 
+ 
+ 
+ 
+ 
+ --Diffuser Choice : 
+ 
+ 
+ 
+ 
+ 
+ ++Opal or Prismatic
+ 
+ 
+ 
+ 
+ 
+ --Profile Size : 
+ 
+ 
+ 
+ 
+ 
+ ++Width 50mm (2"") X Height 77mm (3"")
+ 
+ 
+ 
+ 
+ 
+ --Profile Color : 
+ 
+ 
+ 
+ 
+ 
+ ++White or Black
+ 
+ 
+ 
+ 
+ 
+ --Correlated Color Temperature (CCT) : 
+ 
+ 
+ 
+ 
+ 
+ ++3000K, 4000K, 5000K, 6000K
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ 
+ 
+ ++20 days
+ 
+ 
+ 
+ 
+ 
+ Inclusive of Lighting and Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Custom - Made Ceiling Suspension Light,RFT,900,"https://s3-dms-prod.flipspaces.app/282959ad-d42b-458c-89cf-4fe484a382b0,https://s3-dms-prod.flipspaces.app/2ebe88b4-1bec-491a-9829-7f342bcf2f2d",KELVIN,,0365f047-e6ad-4e40-aa07-5312d0d2487d,DIFFUSER TYPE SWATCH,900,mm,50,,,,1100
+CORAL LIGHT - 80W,Standard,LIGHTING,Black,80W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/2d572578-db61-4ea5-a728-4a30a9f3310f,1200mm (L) x 200mm (W) x 70mm (H),70,94054200,406cd114-dd85-4ccf-8318-82294a888f66,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-892316,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT CORAL TYPE 80W Normal Driver Standard CORAL LIGHT - 80W ASGM-51412-96 1200mm (L) x 200mm (W) x 70mm (H),Ceiling,"--Power: 
+ 
+ ++80W
+ 
+ --Size: 
+ 
+ ++1200x200x70mm
+ 
+ --Driver: 
+ 
+ ++Normal Driver
+ 
+ --Body Color: 
+ 
+ ++Black
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ ++25 days
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,CORAL TYPE,NOS,200,https://s3-dms-prod.flipspaces.app/de40e876-2557-4833-92dd-2990dc217006,,,ae037439-91a6-468a-970a-f26ce211b19f,,1200,,,KELVIN,ASGM-51412-96,,14737
+CORAL LIGHT - 60W,Standard,LIGHTING,Black,60W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/e842defa-b7af-4942-b991-e977b2899357,900mm (L) x 200mm (W) x 70mm (H),70,94054200,72b3fd5c-484c-474a-bce3-a3456fd0dad4,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-606471,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT CORAL TYPE 60W Normal Driver Standard CORAL LIGHT - 60W ASGM-5149-72 900mm (L) x 200mm (W) x 70mm (H),Ceiling,"--Power: 
+ 
+ ++60W
+ 
+ --Size: 
+ 
+ ++900x200x70mm
+ 
+ --Driver: 
+ 
+ ++Normal Driver
+ 
+ --Body Color: 
+ 
+ ++Black
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ ++25 days
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,CORAL TYPE,NOS,200,https://s3-dms-prod.flipspaces.app/3463462b-b772-46ed-8f92-17d827ea2284,,,f091625c-51d5-41df-bed2-811f21129d98,,900,,,KELVIN,ASGM-5149-72,,8995
+CORAL LIGHT - 40W,Standard,LIGHTING,Black,40W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/605b401d-9ce1-4e18-8f08-849acd64feef,600mm (L) x 200mm (W) x 70mm (H),70,94054200,128a7689-be41-4369-8f31-f17c942c79a3,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-187987,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT CORAL TYPE 40W Normal Driver Standard CORAL LIGHT - 40W ASGM-5146-48 600mm (L) x 200mm (W) x 70mm (H),Ceiling,"--Power: 
+ 
+ ++40W
+ 
+ --Size: 
+ 
+ ++600x200x70mm
+ 
+ --Driver: 
+ 
+ ++Normal Driver
+ 
+ --Body Color: 
+ 
+ ++Black
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ ++25 days
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,CORAL TYPE,NOS,200,"https://s3-dms-prod.flipspaces.app/8549b9dc-8ce4-4ba0-85f2-b3b83334a566,https://s3-dms-prod.flipspaces.app/acec8e6e-e900-494f-a8d1-e283b9065f90",,,7dd85dc0-9301-4ac8-8fc9-a574d51cb1b7,,600,,,KELVIN,ASGM-5146-48,,6507
+STAR LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/78a39e8f-f637-4def-b704-29d91db25472,70mm (H) x 600mm (D),70,94054200,25e7df15-e4af-427a-8f11-2bde485e983e,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-594462,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT STAR 42W Normal Driver Standard STAR LIGHT - 42W ASSTM-5166-42 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,STAR,NOS,,"https://s3-dms-prod.flipspaces.app/9be7a525-981c-4b73-af3e-e9bbedf334ab,https://s3-dms-prod.flipspaces.app/07973604-e7cb-4e2c-8ea5-c186254e1726",,600,5619b849-1f5a-4fb9-ba6b-984fede008a2,,,,,KELVIN,ASSTM-5166-42,,8804
+GEAR RING LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/fa408edc-0811-47d1-adb9-9dcf2fe013e8,70mm (H) x 600mm (D),70,94054200,1b5cacd5-598f-4ae5-90b1-e48d1ba7bc6c,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-527453,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT GEARRING TYPE 42W Normal Driver Standard GEAR RING LIGHT - 42W ASPR-5156-42 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"GEAR
+ 
+ 
+ 
+ 
+ 
+ RING TYPE",NOS,,"https://s3-dms-prod.flipspaces.app/ad052f5d-b94b-463e-a38f-29feffe97c34,https://s3-dms-prod.flipspaces.app/a9179395-9caa-4d8b-b1af-374c41485aff",,600,f21e3605-85f4-45dc-9982-9029665b1088,,,,,KELVIN,ASPR-5156-42,,8804
+Y TYPE LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/7a5390eb-277f-49be-bc96-2572ae9726ef,600mm (L) x 70mm (H),70,94054200,8c2958d4-b540-44c0-b512-e31898a2b80c,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-373515,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT Y - TYPE 42W Normal Driver Standard Y TYPE LIGHT - 42W ASYM- 5176-42 600mm (L) x 70mm (H),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,Y - TYPE,NOS,,https://s3-dms-prod.flipspaces.app/8fbb48fc-6110-4bf5-8327-1effcf19d983,,,adc7fa69-f116-4586-9d20-4d91538706ef,,600,,,KELVIN,ASYM- 5176-42,,6507
+SEMI CIRCLE RING LIGHT - 90W,Standard,LIGHTING,Black,90W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/4fbebba9-e8d1-48a4-bbcb-e82295c04e8c,70mm (H) x 1200mm (D),70,94054200,5876b80e-ee54-410a-bd3e-65e86231a69f,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-260519,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT SEMI CIRCLERING 90W Normal Driver Standard SEMI CIRCLE RING LIGHT - 90W ASCR- 5112-96 70mm (H) x 1200mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++90W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++1200x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"SEMI CIRCLE
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,,"https://s3-dms-prod.flipspaces.app/129367bb-147f-46a1-91a4-0dc55e62466a,https://s3-dms-prod.flipspaces.app/2f3c2422-083f-4699-82d6-ce13af1e727a,https://s3-dms-prod.flipspaces.app/91355dff-f7b5-407b-8098-869329c229a9",,1200,0a29682e-00d6-40f9-bec1-d9d0d825a1d9,,,,,KELVIN,ASCR- 5112-96,,13397
+SEMI CIRCLE RING LIGHT - 60W,Standard,LIGHTING,Black,60W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/4fbebba9-e8d1-48a4-bbcb-e82295c04e8c,70mm (H) x 800mm (D),70,94054200,ac54b870-a23f-4c77-b45b-0b50bc0bd096,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-938351,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT SEMI CIRCLERING 60W Normal Driver Standard SEMI CIRCLE RING LIGHT - 60W ASCR-5108-60 70mm (H) x 800mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++60W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++800x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"SEMI CIRCLE
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,,"https://s3-dms-prod.flipspaces.app/129367bb-147f-46a1-91a4-0dc55e62466a,https://s3-dms-prod.flipspaces.app/2f3c2422-083f-4699-82d6-ce13af1e727a,https://s3-dms-prod.flipspaces.app/5d508013-eaca-48ad-a582-314a5fbd0e00",,800,0dfc0655-27e7-4d16-a71f-748dc35673eb,,,,,KELVIN,ASCR-5108-60,,8421
+C - TYPE RING LIGHT - 60W,Standard,LIGHTING,Black,60W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/2ce3f03a-4c8d-4746-97a4-678cfadca110,70mm (H) x 800mm (D),70,94054200,25bea8ca-c947-4fcc-ab0f-e47f15312fd4,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-956102,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT C - TYPE RING 60W Normal Driver Standard C - TYPE RING LIGHT - 60W ASCR-5138-60 70mm (H) x 800mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++60W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++800x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"C - TYPE 
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,,"https://s3-dms-prod.flipspaces.app/607ce6cb-e28e-4411-9698-09cd8c32d4b8,https://s3-dms-prod.flipspaces.app/332ee021-7107-44af-b014-08f63853cff1,https://s3-dms-prod.flipspaces.app/e44adbbf-fba5-45c8-b4b3-34fe3c787c9c",,800,f15a2ae5-a3c5-4198-a353-dfeaaa9dc670,,,,,KELVIN,ASCR-5138-60,,11483
+C - TYPE RING LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/2ce3f03a-4c8d-4746-97a4-678cfadca110,70mm (H) x 600mm (D),70,94054200,be853991-da72-454f-a485-114acf4bffdc,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-807495,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT C - TYPE RING 42W Normal Driver Standard C - TYPE RING LIGHT - 42W ASCR-5136-42 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"C - TYPE 
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,,"https://s3-dms-prod.flipspaces.app/607ce6cb-e28e-4411-9698-09cd8c32d4b8,https://s3-dms-prod.flipspaces.app/332ee021-7107-44af-b014-08f63853cff1,https://s3-dms-prod.flipspaces.app/2a3d53c4-6f4b-402d-b627-3f9391c1d40e",,600,d5d812eb-f535-4003-bb1f-cbccbed3a2d7,,,,,KELVIN,ASCR-5136-42,,6316
+RECTANGLE RING LIGHT - 72W,Standard,LIGHTING,Black,72W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/2ddc2d35-9ee7-456a-95cc-83ae78e022dd,1200mm (L) x 600mm (W) x 70mm (H),70,94054200,bd468a6b-5b09-43f5-862e-3f7ed662543f,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-635443,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT RECTANGLERING 72W Normal Driver Standard RECTANGLE RING LIGHT - 72W ASSR-51112-72 1200mm (L) x 600mm (W) x 70mm (H),Ceiling,"--Power: 
+ 
+ 
+ ++72W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x1200x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"RECTANGLE
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,600,https://s3-dms-prod.flipspaces.app/8c99289b-cf1a-48d0-a6c3-c90997803c51,,,d6e0259b-0c23-4683-8f74-fc4007a5920e,,1200,,,KELVIN,ASSR-51112-72,,10335
+RECTANGLE LIGHT - 72W,Standard,LIGHTING,Black,72W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/a59f2f5b-a355-4597-a633-5926b3454ce3,1200mm (L) x 300mm (W) x 70mm (H),70,94054200,8db3e3d9-0b2c-4137-9229-f273e3f3c120,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-115240,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT RECTANGLE 72W Normal Driver Standard RECTANGLE LIGHT - 72W ASSM-51112-72 1200mm (L) x 300mm (W) x 70mm (H),Ceiling,"--Power: 
+ 
+ 
+ ++72W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++300x1200x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,RECTANGLE,NOS,300,https://s3-dms-prod.flipspaces.app/075613db-6cd0-49aa-9b8a-26fbe932e432,,,7294d1ec-ae74-419d-981e-8276665a8d0c,,1200,,,KELVIN,ASSM-51112-72,,8995
+SQUARE RING LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/359678b0-a50d-494d-81ec-f256b698d459,600mm (L) x 600mm (W) x 70mm (H),70,94054200,7e738774-4603-4d1c-94fc-430f07a50f2a,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-141359,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT SQUARE RING 42W Normal Driver Standard SQUARE RING LIGHT - 42W ASSR-5116-42 600mm (L) x 600mm (W) x 70mm (H),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"SQUARE 
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,600,https://s3-dms-prod.flipspaces.app/42c8c00f-4fa5-4513-81e9-32ed08fc0de4,,,0f40d599-d772-4619-b890-5bcdd9d82f2c,,600,,,KELVIN,ASSR-5116-42,,6124
+SQUARE LIGHT - 45W,Standard,LIGHTING,Black,45W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/cd7d0e07-42f9-470f-87e1-576fc08e0d36,600mm (L) x 600mm (W) x 70mm (H),70,94054200,d80e98a0-4067-4c1c-b865-1354a0242577,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-830930,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT SQUARE 45W Normal Driver Standard SQUARE LIGHT - 45W ASSM-5116-54 600mm (L) x 600mm (W) x 70mm (H),Ceiling,"--Power: 
+ 
+ 
+ ++45W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x100x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,SQUARE,NOS,600,"https://s3-dms-prod.flipspaces.app/e168dad9-67ae-476f-8605-bc09380de979,https://s3-dms-prod.flipspaces.app/96b8876a-804d-4d2f-8c54-9473a401e905",,,cd52b893-706f-4004-956a-d9fa76388838,,600,,,KELVIN,ASSM-5116-54,,6124
+TRIANGLE RING LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/2f632f53-a789-4736-87aa-03308944d38c,70mm (H) x 600mm (D),70,94054200,f3839759-22c6-4313-9e11-12167db01bf3,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-783464,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT TRAINGLERING 42W Normal Driver Standard TRIANGLE RING LIGHT - 42W ASTR-5116-42 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"TRAINGLE
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,,https://s3-dms-prod.flipspaces.app/c3bdf019-fe34-4d6f-af53-fc6419a33880,,600,09b49be4-193d-4957-9dbe-d0c4de15bd4f,,,,,KELVIN,ASTR-5116-42,,5742
+TRIANGLE LIGHT - 45W,Standard,LIGHTING,Black,45W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/fe041958-41cd-4507-9a70-7063b177349f,70mm (H) x 600mm (D),70,94054200,23e27d58-4822-4cc6-8eed-b9c7c80a668c,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-658730,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT TRAINGLE 45W Normal Driver Standard TRIANGLE LIGHT - 45W ASTM-5116-54 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++45W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,TRAINGLE,NOS,,"https://s3-dms-prod.flipspaces.app/b0aa05de-f839-4eb2-a783-92a496648171,https://s3-dms-prod.flipspaces.app/ac8fa9f2-5003-4e98-8cb5-8cecbf7d3c62",,600,e132b2e1-a8a1-4040-ac8b-620ebe60c527,,,,,KELVIN,ASTM-5116-54,,5550
+HEXAGON RING LIGHT - 72W,Standard,LIGHTING,Black,72W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/070ebe3f-7be5-46f6-97a6-0103fa0fab10,70mm (H) x 800mm (D),70,94054200,fd1f65a8-a120-4c5d-bb66-36a2bdbc9eba,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-472088,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT HEXAGON RING 72W Normal Driver Standard HEXAGON RING LIGHT - 72W ASHR-5118-72 70mm (H) x 800mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++72W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++800x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"HEXAGON 
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,,"https://s3-dms-prod.flipspaces.app/960617e8-d83d-4d59-a734-a1c847654abb,https://s3-dms-prod.flipspaces.app/e670fca8-6070-45c9-b48b-56a01a806b7b",,800,0beadbda-16e9-455d-9848-fdef16ec487a,,,,,KELVIN,ASHR-5118-72,,9187
+HEXAGON RING LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/070ebe3f-7be5-46f6-97a6-0103fa0fab10,70mm (H) x 600mm (D),70,94054200,3fdfc90e-089b-4c1d-be2a-98733e3769c5,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-709942,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT HEXAGON RING 42W Normal Driver Standard HEXAGON RING LIGHT - 42W ASHR- 5116-42 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,"HEXAGON 
+ 
+ 
+ 
+ 
+ 
+ RING",NOS,,"https://s3-dms-prod.flipspaces.app/960617e8-d83d-4d59-a734-a1c847654abb,https://s3-dms-prod.flipspaces.app/a4a90339-75d2-4ebf-899b-90ddfa029c9b",,600,6350fda4-3023-4369-8c74-cbebc628c668,,,,,KELVIN,ASHR- 5116-42,,5742
+HEXAGON LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/5fe02799-f276-4ae6-9fbd-6bf5aaebc6b0,70mm (H) x 600mm (D),70,94054200,d9492c44-e78b-43fa-804b-53a1d6b155af,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-117682,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT HEXAGON 42W Normal Driver Standard HEXAGON LIGHT - 42W ASHM-5116-42 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,HEXAGON,NOS,,"https://s3-dms-prod.flipspaces.app/e83205cf-afa9-4b42-b069-82717f802cff,https://s3-dms-prod.flipspaces.app/a3237915-5a6f-4b7f-98f6-aca0a2f6ac7f",,600,e942a776-9b4f-4499-9b08-5c3d7a7251ab,,,,,KELVIN,ASHM-5116-42,,5742
+ROUND RING LIGHT - 96W,Standard,LIGHTING,Black,96W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/1262e6d1-1174-4c4c-b227-cd4610234b8f,70mm (H) x 1200mm (D),70,94054200,9a7f7001-0a00-4e94-a4e6-e37d02be5b51,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-263750,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND RING 96W Normal Driver Standard ROUND RING LIGHT - 96W ASRR-5112-96 70mm (H) x 1200mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++96W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++1200x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND RING,NOS,,"https://s3-dms-prod.flipspaces.app/f48841e6-dc85-4876-bef0-fe97d14dc2e8,https://s3-dms-prod.flipspaces.app/7defb7a5-2bc6-4b55-9454-fdfd7c65ddc5",,1200,3e856084-6ec5-4fd3-97ad-e212d4a69cb3,,,,,KELVIN,ASRR-5112-96,,18373
+ROUND RING LIGHT - 72W,Standard,LIGHTING,Black,72W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/1262e6d1-1174-4c4c-b227-cd4610234b8f,70mm (H) x 800mm (D),70,94054200,0d60a8ee-30d7-4e6c-934e-d30af1b6bebf,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-991470,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND RING 72W Normal Driver Standard ROUND RING LIGHT - 72W ASRR-5108-72 70mm (H) x 800mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++72W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++800x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND RING,NOS,,"https://s3-dms-prod.flipspaces.app/f48841e6-dc85-4876-bef0-fe97d14dc2e8,https://s3-dms-prod.flipspaces.app/4dd84aca-00b6-42ef-bb6c-c98bb15bf551",,800,d539630d-8095-4e3f-a955-9337df055ec5,,,,,KELVIN,ASRR-5108-72,,9187
+ROUND RING LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/1262e6d1-1174-4c4c-b227-cd4610234b8f,70mm (H) x 600mm (D),70,94054200,5fa1bded-cb70-4c34-9dd6-27845592314b,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-576580,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND RING 42W Normal Driver Standard ROUND RING LIGHT - 42W ASRR-5106-48 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND RING,NOS,,"https://s3-dms-prod.flipspaces.app/f48841e6-dc85-4876-bef0-fe97d14dc2e8,https://s3-dms-prod.flipspaces.app/ef59804f-3901-411a-aed6-b18c27ff0f80",,600,d523b6fb-2897-4bc0-aad1-64b8ca6a637b,,,,,KELVIN,ASRR-5106-48,,5742
+ROUND RING LIGHT - 30W,Standard,LIGHTING,Black,30W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/1262e6d1-1174-4c4c-b227-cd4610234b8f,70mm (H) x 400mm (D),70,94054200,2f1f7fa3-54e7-441e-b9c9-24c81691709a,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-495056,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND RING 30W Normal Driver Standard ROUND RING LIGHT - 30W ASRR-5104-36 70mm (H) x 400mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++30W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++400x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND RING,NOS,,"https://s3-dms-prod.flipspaces.app/f48841e6-dc85-4876-bef0-fe97d14dc2e8,https://s3-dms-prod.flipspaces.app/6d1e7739-5310-46da-8256-f26b7807dab3",,400,2a5b2610-7278-4a64-9ced-ca9eb2aae579,,,,,KELVIN,ASRR-5104-36,,3828
+ROUND LIGHT - 96W,Standard,LIGHTING,Black,96W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/e966edb8-f35c-4b01-99a1-fbdaa2f9a210,70mm (H) x 1200mm (D),70,94054200,7af79ac9-09dd-4c51-8613-539ff6840da9,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-927957,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND 96W Normal Driver Standard ROUND LIGHT - 96W ASRM-5112-96 70mm (H) x 1200mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++96W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++1200x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND,NOS,,"https://s3-dms-prod.flipspaces.app/8f17e068-0319-43ff-b6e1-bd37fb02bf8d,https://s3-dms-prod.flipspaces.app/a63e4880-4e8f-41fd-8160-edbc2b53c87d,https://s3-dms-prod.flipspaces.app/d7fba69c-77a0-4666-aebf-7773977a1c6c",,1200,ef9ec60a-5441-458c-a251-3770838df7fd,,,,,KELVIN,ASRM-5112-96,,18373
+ROUND LIGHT - 72W,Standard,LIGHTING,Black,72W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/e966edb8-f35c-4b01-99a1-fbdaa2f9a210,70mm (H) x 800mm (D),70,94054200,736b5b34-2384-4f44-9207-460840a04392,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-794504,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND 72W Normal Driver Standard ROUND LIGHT - 72W ASRM-5108-72 70mm (H) x 800mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++72W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++800x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND,NOS,,"https://s3-dms-prod.flipspaces.app/8f17e068-0319-43ff-b6e1-bd37fb02bf8d,https://s3-dms-prod.flipspaces.app/a63e4880-4e8f-41fd-8160-edbc2b53c87d,https://s3-dms-prod.flipspaces.app/89a34dd8-147b-4558-873c-22b1d8486790",,800,c47d0fbe-0056-4886-b77e-dba929dcab0d,,,,,KELVIN,ASRM-5108-72,,9187
+ROUND LIGHT - 42W,Standard,LIGHTING,Black,42W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/4426336c-8fe8-4d5a-8924-e7cced66f50a,70mm (H) x 600mm (D),70,94054200,da0aa2e3-cf0a-4598-90ba-74b813efcd2d,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-773185,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND 42W Normal Driver Standard ROUND LIGHT - 42W ASRM-5106-48 70mm (H) x 600mm (D),Ceiling,"--Power: 
+ 
+ 
+ ++42W
+ 
+ 
+ --Size: 
+ 
+ 
+ ++600x70mm
+ 
+ 
+ --Driver: 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ --Body Color: 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ ++25 days
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND,NOS,,"https://s3-dms-prod.flipspaces.app/e59f0238-a483-4597-ac6c-1cd74803409c,https://s3-dms-prod.flipspaces.app/8fd7385a-dacf-4cdb-beee-095ad332b538,https://s3-dms-prod.flipspaces.app/0e75b32c-5739-4271-8866-1259cb449959",,600,0402bb05-5343-48f3-ae73-7f50d0180110,,,,,KELVIN,ASRM-5106-48,,5742
+ROUND LIGHT - 30W,Standard,LIGHTING,Black,30W Normal Driver,IN,https://s3-dms-prod.flipspaces.app/f074f0d4-74ca-4707-a198-63340667ac1e,70mm (H) x 400mm (D),70,94054200,c80b3af2-0268-4fe5-a043-6731c160fa88,TRUE,P1,CEILING LIGHT,,product,mm,,P-LIG-ARC-CEI-210980,LIGHTING ARCHITECTURAL LIGHTS CEILING LIGHT ROUND 30W Normal Driver Standard ROUND LIGHT - 30W ASRM-5104-36 70mm (H) x 400mm (D),Ceiling,"--Power: 
+ 
+ 
+ 
+ ++30W
+ 
+ 
+ 
+ --Size: 
+ 
+ 
+ 
+ ++400x70mm
+ 
+ 
+ 
+ --Driver: 
+ 
+ 
+ 
+ ++Normal Driver
+ 
+ 
+ 
+ --Body Color: 
+ 
+ 
+ 
+ ++Black
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ --Delivery Lead Time : 
+ 
+ 
+ 
+ ++25 days
+ 
+ 
+ 
+ --Exclusive of Installation cost",active,ARCHITECTURAL LIGHTS,8cea196a-9ef6-467e-b05a-7557dbeddedd,P_LIGHTING_ARCHITECTURAL LIGHTS,,ROUND,NOS,,"https://s3-dms-prod.flipspaces.app/6d2b783e-89a7-4a1e-9faa-bcf095ce3cc5,https://s3-dms-prod.flipspaces.app/6ae9836f-31a7-4a1b-998a-0652a1c5220c,https://s3-dms-prod.flipspaces.app/dc7b5481-051d-448d-aedd-0d88d35f098a",,400,d99e6a28-5263-4bb4-8788-b2f96181e4f9,,,,,KELVIN,ASRM-5104-36,https://s3-dms-prod.flipspaces.app/7dd6416c-7875-4a5c-8ff2-f2a6d76d871d,3828

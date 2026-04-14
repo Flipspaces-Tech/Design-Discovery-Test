@@ -50075,6 +50075,32 @@
     "row_index": 8104,
     "source_file": "Copy of Design Discovery Renders - Sample Repository.csv"
   },
+  "Live Counter Area_a078cb41-5515-4c09-abde-c568b6836e12_Game Grill": {
+    "sku": "a078cb41-5515-4c09-abde-c568b6836e12",
+    "product_name": "Game Grill",
+    "category": "Live Counter Area",
+    "color": "N/A",
+    "style": "Restaurant",
+    "brand": "Sufiyan Shaikh",
+    "project_id": "a078cb41-5515-4c09-abde-c568b6836e12",
+    "project_name": "Game Grill",
+    "city": "Alpharetta",
+    "country": "US",
+    "construction_type_text": "Restaurant",
+    "space_name": "Live Counter Area",
+    "project_carpet_area": "32610.0",
+    "unit": "Sq. Ft.",
+    "layout_id": "09a81f6e-908f-477b-9882-0dabc68dfb89",
+    "designers": "Yash Chonkar, Neha Malhotra, Shubham Vidyarthi",
+    "render_created_by": "Sufiyan Shaikh",
+    "image_url": "https://s3-dms-prod.flipspaces.app/6b9f3895-88a3-47da-adc3-5bd59b954780",
+    "all_image_urls": [
+      "https://s3-dms-prod.flipspaces.app/6b9f3895-88a3-47da-adc3-5bd59b954780"
+    ],
+    "render_url": "https://s3-dms-prod.flipspaces.app/1a5fc250-3a8a-4ad0-97bf-0d2a81c55da7",
+    "row_index": 8125,
+    "source_file": "Copy of Design Discovery Renders - Sample Repository.csv"
+  },
   "Buffet Area_a078cb41-5515-4c09-abde-c568b6836e12_Game Grill": {
     "sku": "a078cb41-5515-4c09-abde-c568b6836e12",
     "product_name": "Game Grill",
@@ -51243,32 +51269,6 @@
     ],
     "render_url": "https://s3-dms-prod.flipspaces.app/5ee71744-b82e-4ba1-9b7a-51ba7323d38e",
     "row_index": 8103,
-    "source_file": "Copy of Design Discovery Renders - Sample Repository.csv"
-  },
-  "Live Counter Area_a078cb41-5515-4c09-abde-c568b6836e12_Game Grill": {
-    "sku": "a078cb41-5515-4c09-abde-c568b6836e12",
-    "product_name": "Game Grill",
-    "category": "Live Counter Area",
-    "color": "N/A",
-    "style": "Restaurant",
-    "brand": "Sufiyan Shaikh",
-    "project_id": "a078cb41-5515-4c09-abde-c568b6836e12",
-    "project_name": "Game Grill",
-    "city": "Alpharetta",
-    "country": "US",
-    "construction_type_text": "Restaurant",
-    "space_name": "Live Counter Area",
-    "project_carpet_area": "32610.0",
-    "unit": "Sq. Ft.",
-    "layout_id": "09a81f6e-908f-477b-9882-0dabc68dfb89",
-    "designers": "Yash Chonkar, Neha Malhotra, Shubham Vidyarthi",
-    "render_created_by": "Sufiyan Shaikh",
-    "image_url": "https://s3-dms-prod.flipspaces.app/6b9f3895-88a3-47da-adc3-5bd59b954780",
-    "all_image_urls": [
-      "https://s3-dms-prod.flipspaces.app/6b9f3895-88a3-47da-adc3-5bd59b954780"
-    ],
-    "render_url": "https://s3-dms-prod.flipspaces.app/1a5fc250-3a8a-4ad0-97bf-0d2a81c55da7",
-    "row_index": 8125,
     "source_file": "Copy of Design Discovery Renders - Sample Repository.csv"
   },
   "Workstation Area_20fdfcd5-8b5a-40bf-99f6-6828cdacba9f_Sun Branding": {

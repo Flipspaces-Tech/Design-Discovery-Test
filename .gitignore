@@ -1,0 +1,18 @@
+.venv
+# Ignore a specific file
+.env
+
+# Ignore a folder
+node_modules/
+.venv/
+
+# Ignore by extension
+*.log
+*.pyc
+
+# Ignore everything in a folder but keep the folder
+logs/*
+!logs/.gitkeep
+
+# Ignore nested files with a pattern
+**/__pycache__/
